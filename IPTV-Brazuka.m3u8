@@ -440,14 +440,17 @@ http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/1603.m3u8
  
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP3.pt" tvg-name="RTP 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/960px-RTP3_2016_%28Reduced_Version%29.svg.png",RTP 3
 http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/1479.m3u8
+
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI.pt@SD" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI
+https://url.mutua.com.br/tvii
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI.pt@SD" tvg-name="TVI²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI²
 http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/1483.m3u8
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI.pt" tvg-name="TVI²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI²
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI.pt@SD" tvg-name="TVI³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI³
 http://cord-cutter.net:8080/32ED4m/754887/78526
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI" tvg-name="TVI international" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI international
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="PROTVInternational.ro@SD" tvg-name="TVI international" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI international
 https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI_Internacional.m3u
  
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="VPlusTVI.pt" tvg-name="V+ TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI
