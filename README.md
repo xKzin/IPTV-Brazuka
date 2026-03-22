@@ -8,6 +8,7 @@
 | https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/refs/heads/main/IPTV-Brazuka.m3u
 
 #RECOMENDAÇÃO DE APLICATIVOS QUE COSTUMO USAR NO COMPUTADOR
+
 | IP-TV Player - https://borpas.info/iptvplayer
 
 | Fred TV - https://github.com/Fredolx/open-tv/releases
