@@ -8,15 +8,17 @@
 
 | https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/refs/heads/main/IPTV-Brazuka.m3u
 
-#RECOMENDAÇÃO DE APLICATIVOS QUE COSTUMO USAR NO COMPUTADOR
+#RECOMENDAÇÃO DE APLICATIVOS QUE COSTUMO USAR NO COMPUTADOR E NO IPHONE
 
-| IP-TV Player - https://borpas.info/iptvplayer
+| IP-TV Player WINDOWS - https://borpas.info/iptvplayer
 
-| Fred TV - https://github.com/Fredolx/open-tv/releases
+| Fred TV WINDOWS - https://github.com/Fredolx/open-tv/releases
 
-| IPTV Fluent Player - https://apps.microsoft.com/detail/9pkmdlwbc8zj?hl=pt-BR&gl=BR
+| ynoTV WINDOWS - https://github.com/tbeezy/ynotv/releases
 
-| ynoTV - https://github.com/tbeezy/ynotv/releases
+| IPTV Fluent Player WINDOWS - https://github.com/tbeezy/ynotv/releases IPTV Fluent Player - https://apps.microsoft.com/detail/9pkmdlwbc8zj?hl=pt-BR&gl=BR
+
+| IPTV Fluent Player iPHONE - https://apps.apple.com/us/app/iptv-fluent-player/id6744343679
 
 #RECOMENDAÇÃO DE LISTA EPG XML
 
