@@ -10,15 +10,15 @@
 
 #RECOMENDAÇÃO DE APLICATIVOS QUE COSTUMO USAR NO COMPUTADOR E NO IPHONE
 
-| IP-TV Player WINDOWS - https://borpas.info/iptvplayer
+| IP-TV Player - WINDOWS -> https://borpas.info/iptvplayer
 
-| Fred TV WINDOWS - https://github.com/Fredolx/open-tv/releases
+| Fred TV - WINDOWS -> https://github.com/Fredolx/open-tv/releases
 
-| ynoTV WINDOWS - https://github.com/tbeezy/ynotv/releases
+| ynoTV - WINDOWS -> https://github.com/tbeezy/ynotv/releases
 
-| IPTV Fluent Player WINDOWS - https://apps.microsoft.com/detail/9pkmdlwbc8zj?hl=pt-BR&gl=BR
+| IPTV Fluent Player - WINDOWS -> https://apps.microsoft.com/detail/9pkmdlwbc8zj?hl=pt-BR&gl=BR
 
-| IPTV Fluent Player iPHONE - https://apps.apple.com/us/app/iptv-fluent-player/id6744343679
+| IPTV Fluent Player - iPHONE -> https://apps.apple.com/us/app/iptv-fluent-player/id6744343679
 
 #RECOMENDAÇÃO DE LISTA EPG XML
 
