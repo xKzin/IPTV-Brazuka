@@ -16,7 +16,7 @@
 
 | ynoTV WINDOWS - https://github.com/tbeezy/ynotv/releases
 
-| IPTV Fluent Player WINDOWS - https://github.com/tbeezy/ynotv/releases IPTV Fluent Player - https://apps.microsoft.com/detail/9pkmdlwbc8zj?hl=pt-BR&gl=BR
+| IPTV Fluent Player WINDOWS - https://apps.microsoft.com/detail/9pkmdlwbc8zj?hl=pt-BR&gl=BR
 
 | IPTV Fluent Player iPHONE - https://apps.apple.com/us/app/iptv-fluent-player/id6744343679
 
