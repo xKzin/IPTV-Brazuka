@@ -481,9 +481,9 @@ http://newoneblue.site/live/58257413/19193442/1774728.m3u8
 http://newoneblue.site/live/58257413/19193442/1774729.m3u8
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI REALITY" tvg-name="TVI Reality Mosaico" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality Mosaico
-http://newoneblue.site/live/58257413/19193442/1774730.m3u8
+http://newoneblue.site/live/58257413/19193442/1774730.m3u8;
  
-#ESPN
+ESPN
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22000.ts
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN HD
