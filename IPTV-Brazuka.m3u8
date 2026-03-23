@@ -347,7 +347,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21007.ts
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21008.ts
  
-PORTUGAL
+"PORTUGAL
 #EXTINF:-1 tvg-id="SportTVPlus.pt@SD" tvg-name="SporT TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sport_TV%2B_%282023%29.svg/960px-Sport_TV%2B_%282023%29.svg.png" group-title="PORTUGAL",SporT TV+
 http://newoneblue.site/live/58257413/19193442/1774638.m3u8
  
@@ -481,7 +481,7 @@ http://newoneblue.site/live/58257413/19193442/1774728.m3u8
 http://newoneblue.site/live/58257413/19193442/1774729.m3u8
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI REALITY" tvg-name="TVI Reality Mosaico" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality Mosaico
-http://newoneblue.site/live/58257413/19193442/1774730.m3u8
+http://newoneblue.site/live/58257413/19193442/1774730.m3u8"
  
 ESPN
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN FHD
