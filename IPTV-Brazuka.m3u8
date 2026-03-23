@@ -399,43 +399,43 @@ http://newoneblue.site/live/58257413/19193442/1774647.m3u8
 #EXTINF:-1 tvg-id="SportTV6.pt@SD" tvg-name="SporT TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/960px-Sport_TV6_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 6
 http://newoneblue.site/live/58257413/19193442/1774649.m3u8
  
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/960px-Logo_Canal_11_FPF.svg.png" group-title="PORTUGAL",Canal 11
+#EXTINF:-1 tvg-id="Canal11.pt@SD" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/960px-Logo_Canal_11_FPF.svg.png" group-title="PORTUGAL",Canal 11
 http://newoneblue.site/live/58257413/19193442/1774633.m3u8
  
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal 11²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/960px-Logo_Canal_11_FPF.svg.png" group-title="PORTUGAL",Canal 11²
+#EXTINF:-1 tvg-id="Canal11.pt@SD" tvg-name="Canal 11²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/960px-Logo_Canal_11_FPF.svg.png" group-title="PORTUGAL",Canal 11²
 http://newoneblue.site/live/58257413/19193442/1774632.m3u8
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="DAZN 1.pt" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/500px-DAZN_1.svg.png",DAZN 1
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="DAZN1.uk@Portugal" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/500px-DAZN_1.svg.png",DAZN 1
 http://xxip9.top:8080/14263899/04468572/35264
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="DAZN 1" tvg-name="DAZN 1²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/500px-DAZN_1.svg.png",DAZN 1²
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="DAZN1.uk@Portugal" tvg-name="DAZN 1²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/500px-DAZN_1.svg.png",DAZN 1²
 http://cord-cutter.net:8080/2145165799/eddelley31@yahoo.com/35264
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="DAZN 1.pt" tvg-name="DAZN 1³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/500px-DAZN_1.svg.png",DAZN 1³
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="DAZN1.uk@Portugal" tvg-name="DAZN 1³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/500px-DAZN_1.svg.png",DAZN 1³
 http://cord-cutter.net:8080/32ED4m/754887/35264
  
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="PORTUGAL",SIC
+#EXTINF:-1 tvg-id="SIC.pt@SD" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="PORTUGAL",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
  
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="PORTUGAL",SIC²
+#EXTINF:-1 tvg-id="SIC.pt@SD" tvg-name="SIC²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="PORTUGAL",SIC²
 http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/10224.m3u8
  
 #EXTINF:-1 tvg-id="SIC CARAS" tvg-name="Caras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/SIC_CARAS.png" group-title="PORTUGAL",SIC Caras
 http://newoneblue.site/live/58257413/19193442/1774710.m3u8
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="SIC MULHER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SIC_Mulher_2023.svg/1280px-SIC_Mulher_2023.svg.png",SIC Mulher
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="SICCaras.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SIC_Mulher_2023.svg/1280px-SIC_Mulher_2023.svg.png",SIC Mulher
 http://newoneblue.site/live/58257413/19193442/1774712.m3u8
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="SIC NOTICIAS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="SICNoticias.pt@SD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
 http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/10226.m3u8
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="RTPNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/rtpnoticias.png",RTP Notícias
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="RTPNoticias.pt@HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/rtpnoticias.png",RTP Notícias
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP1.pt" tvg-name="RTP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/RTP1.png",RTP 1
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP1.pt@SD" tvg-name="RTP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/RTP1.png",RTP 1
 http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/1604.m3u8
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP2.pt" tvg-name="RTP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Futuro_log%C3%B3tipo_-_RTP2.jpg",RTP 2
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP2.pt@SD" tvg-name="RTP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Futuro_log%C3%B3tipo_-_RTP2.jpg",RTP 2
 http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/1603.m3u8
  
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP3.pt" tvg-name="RTP 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/960px-RTP3_2016_%28Reduced_Version%29.svg.png",RTP 3
@@ -453,19 +453,19 @@ http://cord-cutter.net:8080/32ED4m/754887/78526
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="PROTVInternational.ro@SD" tvg-name="TVI international" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI international
 https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI_Internacional.m3u
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="VPlusTVI.pt" tvg-name="V+ TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="VPlusTVI.pt@SD" tvg-name="V+ TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI
 http://newoneblue.site/live/58257413/19193442/1774731.m3u8
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="VPlusTVI.pt" tvg-name="V+ TVI²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI²
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="VPlusTVI.pt@SD" tvg-name="V+ TVI²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI²
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI FICCAO" tvg-name="TVI Ficção" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
 https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI REALITY" tvg-name="TVI Reality" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIReality.pt" tvg-name="TVI Reality" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI REALITY" tvg-name="TVI Reality²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality²
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIReality.pt" tvg-name="TVI Reality²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality²
 http://newoneblue.site/live/58257413/19193442/1774725.m3u8
  
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI REALITY" tvg-name="TVI Reality CAM 01" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality CAM 01
