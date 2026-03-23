@@ -396,13 +396,13 @@ http://newoneblue.site/live/58257413/19193442/1774648.m3u8
 #EXTINF:-1 tvg-id="SportTV5.pt@SD" tvg-name="SporT TV 5²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sport_TV5_%282023%29.svg/960px-Sport_TV5_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 5²
 http://newoneblue.site/live/58257413/19193442/1774647.m3u8
  
-#EXTINF:-1 tvg-id="SportTV6.pt@SD" tvg-name="SporT TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/960px-Sport_TV6_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 6
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="SporT TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/960px-Sport_TV6_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 6
 http://newoneblue.site/live/58257413/19193442/1774649.m3u8
  
-#EXTINF:-1 tvg-id="Canal11.pt@SD" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/960px-Logo_Canal_11_FPF.svg.png" group-title="PORTUGAL",Canal 11
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/960px-Logo_Canal_11_FPF.svg.png" group-title="PORTUGAL",Canal 11
 http://newoneblue.site/live/58257413/19193442/1774633.m3u8
  
-#EXTINF:-1 tvg-id="Canal11.pt@SD" tvg-name="Canal 11²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/960px-Logo_Canal_11_FPF.svg.png" group-title="PORTUGAL",Canal 11²
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/960px-Logo_Canal_11_FPF.svg.png" group-title="PORTUGAL",Canal 11²
 http://newoneblue.site/live/58257413/19193442/1774632.m3u8
  
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="DAZN1.uk@Portugal" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/500px-DAZN_1.svg.png",DAZN 1
@@ -435,7 +435,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP1.pt@SD" tvg-name="RTP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/RTP1.png",RTP 1
 http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/1604.m3u8
  
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP2.pt@SD" tvg-name="RTP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Futuro_log%C3%B3tipo_-_RTP2.jpg",RTP 2
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP2.pt" tvg-name="RTP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Futuro_log%C3%B3tipo_-_RTP2.jpg",RTP 2
 http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/1603.m3u8
  
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP3.pt" tvg-name="RTP 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/960px-RTP3_2016_%28Reduced_Version%29.svg.png",RTP 3
