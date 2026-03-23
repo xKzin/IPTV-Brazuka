@@ -6,7 +6,7 @@
 
 #SEGUE O LINK DA LISTA
 
-| https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/refs/heads/main/IPTV-Brazuka.m3u8
+| https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka.m3u8
 
 #RECOMENDAÇÃO DE APLICATIVOS QUE COSTUMO USAR NO COMPUTADOR E NO IPHONE
 
