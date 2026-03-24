@@ -77,6 +77,8 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13002.ts
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://www.fontedecanais.tv/logos/canais/ae.png" group-title="FILMES E SÉRIES",A&E
 http://prize10.vip/live/a89207786/112233Aa/90647.m3u8
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&E H265" tvg-logo="https://www.fontedecanais.tv/logos/canais/ae.png" group-title="FILMES E SÉRIES",A&E H265
+http://prize10.vip/live/a89207786/112233Aa/71761.m3u8
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/axn.png" group-title="FILMES E SÉRIES",AXN FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13003.ts
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/axn.png" group-title="FILMES E SÉRIES",AXN HD
@@ -158,9 +160,9 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13050.ts
 #EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner Channel FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/warnerchannel.png" group-title="FILMES E SÉRIES",Warner Channel FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13051.ts
 #EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner Channel HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/warnerchannel.png" group-title="FILMES E SÉRIES",Warner Channel HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13052.ts
+http://prize10.vip/live/a89207786/112233Aa/90236.m3u8
 #EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner Channel SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/warnerchannel.png" group-title="FILMES E SÉRIES",Warner Channel SD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13053.ts
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13052.ts
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tcm.png" group-title="FILMES E SÉRIES",TCM FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13054.ts
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tcm.png" group-title="FILMES E SÉRIES",TCM HD
@@ -323,6 +325,50 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19028.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19029.ts
 #EXTINF:-1 tvg-id="27" tvg-name="DAZN 3" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="ESPORTES",DAZN 3
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19030.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zona Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Serie_A_Enilive_logo.png" group-title="ESPORTES ITALIA",Zona Serie A
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/218931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zona Serie A²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e9/Serie_A_Enilive_logo.png" group-title="ESPORTES ITALIA",Zona Serie A²
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/218932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png" group-title="ESPORTES ITALIA",Sky Sport Calcio
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/4495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sky_Sport_24_-_Logo_2026.svg/3840px-Sky_Sport_24_-_Logo_2026.svg.png" group-title="ESPORTES ITALIA",Sky Sport 24
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/27975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_Uno_-_Logo_2026.svg/1280px-Sky_Sport_Uno_-_Logo_2026.svg.png" group-title="ESPORTES ITALIA",Sky Sport uno
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/29042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sky_Sports_F1_2020_DOG.png/revision/latest?cb=20220620061410" group-title="ESPORTES ITALIA",Sky Sport F1
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/4497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Sky_Sport_Arena_-_2020_logo.svg/960px-Sky_Sport_Arena_-_2020_logo.svg.png" group-title="ESPORTES ITALIA",Sky Sport Arena
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/27954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Sky_Sport_Max.svg/1280px-Sky_Sport_Max.svg.png" group-title="ESPORTES ITALIA",Sky Sport Max
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/150803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Mix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/960px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="ESPORTES ITALIA",Sky Sport Mix
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/226815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Legend" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Sport_Legend_-_Logo_2026.svg/3840px-Sky_Sport_Legend_-_Logo_2026.svg.png" group-title="ESPORTES ITALIA",Sky Sport Legend
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/226817.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png" group-title="ITALIA",Rai 1
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/63460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1280px-Rai_2_-_Logo_2016.svg.png" group-title="ITALIA",Rai 2
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/63461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="ITALIA",Rai 3
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/63462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rete 4 PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/960px-Rete_4_-_Logo_2018.svg.png" group-title="ITALIA",Rete 4 PRIMA
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/63463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rete 4 MEDIASET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/960px-Rete_4_-_Logo_2018.svg.png" group-title="ITALIA",Rete 4 MEDIASET
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/79386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canale 5" tvg-logo="https://e7.pngegg.com/pngimages/129/3/png-clipart-canale-5-logo-television-italia-1-rete-4-others-miscellaneous-television-thumbnail.png" group-title="ITALIA",Canale 5
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/63464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canale 5 +1" tvg-logo="https://e7.pngegg.com/pngimages/129/3/png-clipart-canale-5-logo-television-italia-1-rete-4-others-miscellaneous-television-thumbnail.png" group-title="ITALIA",Canale 5 +1
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/79388.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Italia 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Italia_1_logo_%28on-screen%2C_1996%29.svg/revision/latest/scale-to-width-down/250?cb=20250920124432" group-title="ITALIA",Italia 1
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/63465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Italia 1 +1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Italia_1_logo_%28on-screen%2C_1996%29.svg/revision/latest/scale-to-width-down/250?cb=20250920124432" group-title="ITALIA",Italia 1 +1
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/79391.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/1280px-Cine34_logo.svg.png" group-title="ITALIA",Cine34
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/189100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1280px-Rai_Movie_-_Logo_2017.svg.png" group-title="ITALIA",Rai Movie
+http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/346.m3u8
 
 #EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV 60FPS FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
 http://cdn.shytsky.top/live/78189814/93059224/829590.m3u8
