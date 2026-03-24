@@ -370,7 +370,7 @@ http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/189100.m3u8
 #EXTINF:-1 tvg-id="RaiMovie.it@SD" tvg-name="Rai Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1280px-Rai_Movie_-_Logo_2017.svg.png" group-title="ITALIA",Rai Movie
 http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/346.m3u8
 
-#EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV 60FPS FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
+#EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV 60FPS FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV 60FPS FHD
 http://cdn.shytsky.top/live/78189814/93059224/829590.m3u8
 #EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21000.ts
