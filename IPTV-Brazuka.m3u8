@@ -74,6 +74,9 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13001.ts
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/amc.png" group-title="FILMES E SÉRIES",AMC SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13002.ts
+
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&E" tvg-logo="https://www.fontedecanais.tv/logos/canais/ae.png" group-title="FILMES E SÉRIES",A&E
+http://prize10.vip/live/a89207786/112233Aa/90647.m3u8
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/axn.png" group-title="FILMES E SÉRIES",AXN FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13003.ts
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/axn.png" group-title="FILMES E SÉRIES",AXN HD
@@ -321,6 +324,8 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19029.ts
 #EXTINF:-1 tvg-id="27" tvg-name="DAZN 3" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="ESPORTES",DAZN 3
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19030.ts
 
+#EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV 60FPS FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
+http://cdn.shytsky.top/live/78189814/93059224/829590.m3u8
 #EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21000.ts
 #EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV HD
@@ -407,7 +412,7 @@ http://newoneblue.site/live/58257413/19193442/1774701.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP3.pt" tvg-name="RTP 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/960px-RTP3_2016_%28Reduced_Version%29.svg.png",RTP 3
 http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/1479.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI.pt@SD" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI
-https://url.mutua.com.br/tvii
+http://cdn.shytsky.top/live/78189814/93059224/2549669.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI.pt@SD" tvg-name="TVI²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI²
 http://newoneblue.site/live/58257413/19193442/1774722.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI.pt@SD" tvg-name="TVI³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI³
@@ -425,6 +430,8 @@ http://newoneblue.site/live/58257413/19193442/1774724.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIReality.pt" tvg-name="TVI Reality" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIReality.pt" tvg-name="TVI Reality²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality²
+http://cdn.shytsky.top/live/78189814/93059224/2549671.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIReality.pt" tvg-name="TVI Reality³" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality³
 http://newoneblue.site/live/58257413/19193442/1774725.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI REALITY" tvg-name="TVI Reality CAM 01" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality CAM 01
 http://newoneblue.site/live/58257413/19193442/1774726.m3u8
@@ -476,6 +483,8 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22017.ts
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="Premiere Clubes FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",﻿Premiere Clubes FHD
 http://rotasvip.net/live/jacksonmaia/Jkm036277/72264.m3u8
+#EXTINF:-1 tvg-id="PREMIERE CLUBES 60 FPS HD" tvg-name="Premiere Clubes HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",﻿Premiere Clubes HD
+http://cdn.shytsky.top/live/78189814/93059224/250240.m3u8
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="Premiere Clubes HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",﻿Premiere Clubes HD
 http://rotasvip.net/live/jacksonmaia/Jkm036277/72262.m3u8
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="Premiere Clubes H265" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere Clubes H265
