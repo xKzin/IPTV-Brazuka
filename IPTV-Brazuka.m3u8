@@ -349,7 +349,7 @@ http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/226817.m3u8
 
 #EXTINF:-1 tvg-id="2772" tvg-name="Rai 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png" group-title="ITALIA",Rai 1
 http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/63460.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1280px-Rai_2_-_Logo_2016.svg.png" group-title="ITALIA",Rai 2
+#EXTINF:-1 tvg-id="Rai2.it@HD" tvg-name="Rai 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1280px-Rai_2_-_Logo_2016.svg.png" group-title="ITALIA",Rai 2
 http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/63461.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="ITALIA",Rai 3
 http://exclusive.macumba.xyz/live/Feudis/nKcVHB5SaT/63462.m3u8
