@@ -492,7 +492,7 @@ http://newoneblue.site/live/58257413/19193442/1774724.m3u8
 http://kplay.red/live/1694433/8512155/899945.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI.pt@SD" tvg-name="TVI²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI²
 http://cdn.shytsky.top/live/78189814/93059224/2549669.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI.pt@SD" tvg-name="TVI³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI³
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI.pt" tvg-name="TVI³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI³
 http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774722.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIReality.pt" tvg-name="TVI Reality HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality HD
 http://kplay.red/live/1694433/8512155/899444.m3u8
