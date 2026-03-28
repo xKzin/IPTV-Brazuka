@@ -445,6 +445,8 @@ http://cdn.shytsky.top/live/78189814/93059224/2549669.m3u8
 http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774722.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIReality.pt" tvg-name="TVI Reality HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality HD
 http://lphas.click/live/4199922241/awsedc1485/27505720.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIReality.pt" tvg-name="TVI Reality HD²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality HD²
+http://cdn.shytsky.top/live/78189814/93059224/2549671.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIReality.pt" tvg-name="TVI Reality" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIReality.pt" tvg-name="TVI Reality²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality²
