@@ -507,8 +507,8 @@ http://newoneblue.site/live/58257413/19193442/1774730.m3u8
 http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/231459.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22001.ts
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN SD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22002.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD²" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN HD²
+http://onlivex.pro/live/975127/wAgnmU/71911.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn2.png" group-title="ESPN",ESPN 2 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22003.ts
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn2.png" group-title="ESPN",ESPN 2 HD
