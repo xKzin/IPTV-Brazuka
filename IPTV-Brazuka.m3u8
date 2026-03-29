@@ -334,7 +334,7 @@ http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774651.m3u8
 #EXTINF:-1 tvg-id="DAZN5.uk@Portugal" tvg-name="DAZN 5" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="ESPORTES",DAZN 5
 http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/233162.m3u8
 
-#EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV 60FPS FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV 60FPS FHD
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV 60FPS FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV 60FPS FHD
 http://cdn.shytsky.top/live/78189814/93059224/829590.m3u8
 #EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21000.ts
