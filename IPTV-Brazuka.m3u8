@@ -1,57 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo FHD
+#EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo FHD
 http://rotasvip.net/live/jacksonmaia/Jkm036277/72040.m3u8
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo HD
+#EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="Globo São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18025.ts
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-name="Globo São Paulo SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo SD
+#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="Globo São Paulo SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18026.ts
-#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.pDraing" group-title="CANAIS ABERTOS",Globo Minas FHD
+#EXTINF:-1 tvg-id="Globo Minas.br" tvg-name="Globo Minas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.pDraing" group-title="CANAIS ABERTOS",Globo Minas FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18015.ts
-#EXTINF:-1 tvg-id="Globo nordeste" tvg-name="Globo Nordeste FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Nordeste FHD
+#EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Nordeste FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18018.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Inter TV Grande Minas HD
+#EXTINF:-1 tvg-id="Inter TV Grande Minas.br" tvg-name="Inter TV Grande Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Inter TV Grande Minas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18040.ts
-#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Inter TV Grande Minas SD
+#EXTINF:-1 tvg-id="Inter TV Grande Minas.br" tvg-name="Inter TV Grande Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Inter TV Grande Minas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18041.ts
-#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="Globo Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Rio FHD
+#EXTINF:-1 tvg-id="Globo Rio.br" tvg-name="Globo Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Rio FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18021.ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Rio HD
+#EXTINF:-1 tvg-id="Globo Rio.br" tvg-name="Globo Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Rio HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18022.ts
-#EXTINF:-1 tvg-id="globo_rj" tvg-name="Globo Rio SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Rio SD
+#EXTINF:-1 tvg-id="Globo Rio.br" tvg-name="Globo Rio SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Rio SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18023.ts
-#EXTINF:-1 tvg-id="Band_br" tvg-name="Band São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band São Paulo FHD
+#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="Band São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band São Paulo FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28021.ts
-#EXTINF:-1 tvg-id="Band_br" tvg-name="Band São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band São Paulo HD
+#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="Band São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band São Paulo HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28022.ts
-#EXTINF:-1 tvg-id="Band_br" tvg-name="Band São Paulo SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band São Paulo SD
+#EXTINF:-1 tvg-id="Band Sao Paulo.br" tvg-name="Band São Paulo SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band São Paulo SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28023.ts
-#EXTINF:-1 tvg-id="Band_Minas.br" tvg-name="Band Minas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Minas FHD
+#EXTINF:-1 tvg-id="Band Minas HD.br" tvg-name="Band Minas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Minas FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28009.ts
-#EXTINF:-1 tvg-id="Band_Minas.br" tvg-name="Band Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Minas HD
+#EXTINF:-1 tvg-id="Band Minas HD.br" tvg-name="Band Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Minas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28010.ts
-#EXTINF:-1 tvg-id="Band_Minas.br" tvg-name="Band Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Minas SD
+#EXTINF:-1 tvg-id="Band Minas.br" tvg-name="Band Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Minas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28011.ts
-#EXTINF:-1 tvg-id="Band_Rio" tvg-name="Band Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Rio FHD
+#EXTINF:-1 tvg-id="Band Rio.br" tvg-name="Band Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Rio FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28015.ts
-#EXTINF:-1 tvg-id="Band_Rio" tvg-name="Band Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Rio HD
+#EXTINF:-1 tvg-id="Band Rio.br" tvg-name="Band Rio HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Rio HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28016.ts
-#EXTINF:-1 tvg-id="Band_Rio" tvg-name="Band Rio SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Rio SD
+#EXTINF:-1 tvg-id="Band Rio.br" tvg-name="Band Rio SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Rio SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28017.ts
-#EXTINF:-1 tvg-id="Band_sul" tvg-name="Band Rio Grande do Sul FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Rio Grande do Sul FHD
+#EXTINF:-1 tvg-id="Band Rio Grande do Sul HD.br" tvg-name="Band Rio Grande do Sul FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Rio Grande do Sul FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28018.ts
-#EXTINF:-1 tvg-id="Band_sul" tvg-name="Band Rio Grande do Sul HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Rio Grande do Sul HD
+#EXTINF:-1 tvg-id="Band Rio Grande do Sul HD.br" tvg-name="Band Rio Grande do Sul HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Rio Grande do Sul HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28019.ts
-#EXTINF:-1 tvg-id="Bandsul" tvg-name="Band Rio Grande do Sul SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Rio Grande do Sul SD
+#EXTINF:-1 tvg-id="Band Rio Grande do Sul HD.br" tvg-name="Band Rio Grande do Sul SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="CANAIS ABERTOS",Band Rio Grande do Sul SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/28020.ts
-#EXTINF:-1 tvg-id="186" tvg-name="Record TV São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="CANAIS ABERTOS",Record TV São Paulo FHD
+#EXTINF:-1 tvg-id="Record TV.br" tvg-name="Record TV São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="CANAIS ABERTOS",Record TV São Paulo FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/27060.ts
-#EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="RedeTV! FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/redetv.png" group-title="CANAIS ABERTOS",RedeTV! FHD
+#EXTINF:-1 tvg-id="RedeTV! SP.br" tvg-name="RedeTV! FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/redetv.png" group-title="CANAIS ABERTOS",RedeTV! FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17036.ts
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="CANAIS ABERTOS",SBT FHD
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="CANAIS ABERTOS",SBT FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17039.ts
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="CANAIS ABERTOS",SBT HD
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="CANAIS ABERTOS",SBT HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17040.ts
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="CANAIS ABERTOS",SBT
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="CANAIS ABERTOS",SBT
 https://aovivo.maissbt.com/channel_720.m3u8
 #EXTINF:-1 tvg-id="CULTURA HD" tvg-name="Cultura FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cultura.png" group-title="CANAIS ABERTOS",Cultura FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17003.ts
