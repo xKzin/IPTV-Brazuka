@@ -231,7 +231,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14023.ts
 http://onlivex.pro/live/563593/vGfUjy/90239.m3u8
 #EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15001.ts
-#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action SD
+#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="Telecine Action SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15002.ts
 #EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="Telecine Cult FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult FHD
 http://onlivex.pro/live/563593/vGfUjy/103456.m3u8
