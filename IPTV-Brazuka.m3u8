@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-brasil.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-portugal.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-brasil.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-portugal.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-uk.xml"
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo FHD
 http://rotasvip.net/live/jacksonmaia/Jkm036277/72040.m3u8
 #EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="Globo São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo HD
@@ -340,7 +340,8 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21006.ts
 http://newoneblue.site/live/58257413/19193442/236296.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 SD
 http://meusrv.top/live/522162677/298529473/146.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://www.fontedecanais.tv/logos/canais/tnt.png" group-title="INGLATERRA",TNT SPORTS 1
+http://vipnachoeasna.top:8080/live/VIP01966172717811899/4fa5796d83d5/147028.m3u8
 #EXTINF:-1 tvg-id="SPORT TV+ HD.pt" tvg-name="SporT TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sport_TV%2B_%282023%29.svg/960px-Sport_TV%2B_%282023%29.svg.png" group-title="PORTUGAL",SporT TV+
 http://newoneblue.site/live/58257413/19193442/1774638.m3u8
 #EXTINF:-1 tvg-id="SPORT TV+ HD.pt" tvg-name="SporT TV+²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sport_TV%2B_%282023%29.svg/3840px-Sport_TV%2B_%282023%29.svg.png" group-title="PORTUGAL",SporT TV+²
