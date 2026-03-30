@@ -353,41 +353,41 @@ http://newoneblue.site/live/58257413/19193442/236296.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 SD
 http://meusrv.top/live/522162677/298529473/146.m3u8
 
-#EXTINF:-1 tvg-id="SPT+HD.pt" tvg-name="SporT TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sport_TV%2B_%282023%29.svg/960px-Sport_TV%2B_%282023%29.svg.png" group-title="PORTUGAL",SporT TV+
+#EXTINF:-1 tvg-id="SPORT TV+ HD.pt" tvg-name="SporT TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sport_TV%2B_%282023%29.svg/960px-Sport_TV%2B_%282023%29.svg.png" group-title="PORTUGAL",SporT TV+
 http://newoneblue.site/live/58257413/19193442/1774638.m3u8
 #EXTINF:-1 tvg-id="SPTVHD.pt" tvg-name="SporT TV+²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sport_TV%2B_%282023%29.svg/3840px-Sport_TV%2B_%282023%29.svg.png" group-title="PORTUGAL",SporT TV+²
 http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774638.m3u8
-#EXTINF:-1 tvg-id="SPT1HD.pt" tvg-name="SporT TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_TV1_%282023%29.svg/960px-Sport_TV1_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 1
+#EXTINF:-1 tvg-id="SPORT TV1 HD.pt" tvg-name="SporT TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_TV1_%282023%29.svg/960px-Sport_TV1_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 1
 http://newoneblue.site/live/58257413/19193442/1774640.m3u8
 #EXTINF:-1 tvg-id="SPT1HD.pt" tvg-name="SporT TV 1²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_TV1_%282023%29.svg/960px-Sport_TV1_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 1²
 http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774640.m3u8
 #EXTINF:-1 tvg-id="SPT1HD.pt" tvg-name="SporT TV 1³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_TV1_%282023%29.svg/960px-Sport_TV1_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 1³
 http://cord-cutter.net:8080/32ED4m/754887/167742
-#EXTINF:-1 tvg-id="SPT2HD.pt" tvg-name="SporT TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1280px-Sport_TV2_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 2
+#EXTINF:-1 tvg-id="SPORT TV2 HD.pt" tvg-name="SporT TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1280px-Sport_TV2_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 2
 http://newoneblue.site/live/58257413/19193442/1774642.m3u8
 #EXTINF:-1 tvg-id="SPT2HD.pt" tvg-name="SporT TV 2²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1280px-Sport_TV2_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 2²
 http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774642.m3u8
 #EXTINF:-1 tvg-id="SPT2HD.pt" tvg-name="SporT TV 2³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1280px-Sport_TV2_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 2³
 http://cord-cutter.net:8080/32ED4m/754887/167743
-#EXTINF:-1 tvg-id="SPT3HD.pt" tvg-name="SporT TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/960px-Sport_TV3_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 3
+#EXTINF:-1 tvg-id="SPORT TV3 HD.pt" tvg-name="SporT TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/960px-Sport_TV3_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 3
 http://newoneblue.site/live/58257413/19193442/1774644.m3u8
 #EXTINF:-1 tvg-id="SPT3HD.pt" tvg-name="SporT TV 3²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/960px-Sport_TV3_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 3²
 http://newoneblue.site/live/58257413/19193442/1774643.m3u8
 #EXTINF:-1 tvg-id="SPT3HD.pt" tvg-name="SporT TV 3³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/960px-Sport_TV3_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 3³
 http://cord-cutter.net:8080/32ED4m/754887/167744
-#EXTINF:-1 tvg-id="SPT4HD.pt" tvg-name="SporT TV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/960px-Sport_TV4_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 4
+#EXTINF:-1 tvg-id="SPORT TV4 HD.pt" tvg-name="SporT TV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/960px-Sport_TV4_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 4
 http://newoneblue.site/live/58257413/19193442/1774646.m3u8
 #EXTINF:-1 tvg-id="SPT4HD.pt" tvg-name="SporT TV 4²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/960px-Sport_TV4_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 4²
 http://newoneblue.site/live/58257413/19193442/1774645.m3u8
 #EXTINF:-1 tvg-id="SPT4HD.pt" tvg-name="SporT TV 4³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/960px-Sport_TV4_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 4³
 http://cord-cutter.net:8080/32ED4m/754887/167745
-#EXTINF:-1 tvg-id="SPT5HD.pt" tvg-name="SporT TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sport_TV5_%282023%29.svg/960px-Sport_TV5_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 5
+#EXTINF:-1 tvg-id="SPORT TV5 HD.pt" tvg-name="SporT TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sport_TV5_%282023%29.svg/960px-Sport_TV5_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 5
 http://newoneblue.site/live/58257413/19193442/1774648.m3u8
 #EXTINF:-1 tvg-id="SPT5HD.pt" tvg-name="SporT TV 5²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sport_TV5_%282023%29.svg/960px-Sport_TV5_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 5²
 http://newoneblue.site/live/58257413/19193442/1774647.m3u8
-#EXTINF:-1 tvg-id="SPT6HD.pt" tvg-name="SporT TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/960px-Sport_TV6_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 6
+#EXTINF:-1 tvg-id="Sport TV 6 HD.pt" tvg-name="SporT TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/960px-Sport_TV6_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 6
 http://newoneblue.site/live/58257413/19193442/1774649.m3u8
-#EXTINF:-1 tvg-id="SPT7HD.pt" tvg-name="SporT TV 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/960px-Sport_TV6_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 7
+#EXTINF:-1 tvg-id="Sport TV 7 HD.pt" tvg-name="SporT TV 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/960px-Sport_TV6_%282023%29.svg.png" group-title="PORTUGAL",SporT TV 7
 http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774633.m3u8
 #EXTINF:-1 tvg-id="Canal 11 HD.pt" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/960px-Logo_Canal_11_FPF.svg.png" group-title="PORTUGAL",Canal 11
 http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774632.m3u8
