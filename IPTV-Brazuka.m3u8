@@ -821,11 +821,11 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24027.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24028.ts
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tooncast.png" group-title="DESENHOS",Tooncast SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24029.ts
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZooMoo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/zoomoo.png" group-title="DESENHOS",ZooMoo FHD
+#EXTINF:-1 tvg-id="ZOOMOO HD.br" tvg-name="ZooMoo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/zoomoo.png" group-title="DESENHOS",ZooMoo FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24030.ts
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZooMoo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/zoomoo.png" group-title="DESENHOS",ZooMoo HD
+#EXTINF:-1 tvg-id="ZOOMOO HD.br" tvg-name="ZooMoo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/zoomoo.png" group-title="DESENHOS",ZooMoo HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24031.ts
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZooMoo SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/zoomoo.png" group-title="DESENHOS",ZooMoo SD
+#EXTINF:-1 tvg-id="ZOOMOO HD.br" tvg-name="ZooMoo SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/zoomoo.png" group-title="DESENHOS",ZooMoo SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24032.ts
 #EXTINF:-1 tvg-id="TV Rá Tim Bum! HD.br" tvg-name="TV Rá Tim Bum FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tvratimbum.png" group-title="DESENHOS",TV Rá Tim Bum FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24039.ts
