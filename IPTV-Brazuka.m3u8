@@ -664,11 +664,11 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19094.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBA 10" tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="NBA",NBA 10
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19095.ts
 
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png" group-title="ENTRETENIMENTO",Animal Planet FHD
+#EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="Animal Planet FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png" group-title="ENTRETENIMENTO",Animal Planet FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23000.ts
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png" group-title="ENTRETENIMENTO",Animal Planet HD
+#EXTINF:-1 tvg-id="Animal Planet.br" tvg-name="Animal Planet HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png" group-title="ENTRETENIMENTO",Animal Planet HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23001.ts
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png" group-title="ENTRETENIMENTO",Animal Planet SD
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD.br" tvg-name="Animal Planet SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png" group-title="ENTRETENIMENTO",Animal Planet SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23002.ts
 #EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte1 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/arte1.png" group-title="ENTRETENIMENTO",Arte1 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23003.ts
