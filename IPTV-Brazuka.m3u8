@@ -75,11 +75,11 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13001.ts
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/amc.png" group-title="FILMES E SÉRIES",AMC SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13002.ts
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://www.fontedecanais.tv/logos/canais/ae.png" group-title="FILMES E SÉRIES",A&E
+#EXTINF:-1 tvg-id="AandE HD.br" tvg-name="A&E" tvg-logo="https://www.fontedecanais.tv/logos/canais/ae.png" group-title="FILMES E SÉRIES",A&E
 http://prize10.vip/live/a89207786/112233Aa/90647.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E²" tvg-logo="https://www.fontedecanais.tv/logos/canais/ae.png" group-title="FILMES E SÉRIES",A&E²
 http://onlivex.pro/live/975127/wAgnmU/90647.m3u8
-#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&E H265" tvg-logo="https://www.fontedecanais.tv/logos/canais/ae.png" group-title="FILMES E SÉRIES",A&E H265
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E H265" tvg-logo="https://www.fontedecanais.tv/logos/canais/ae.png" group-title="FILMES E SÉRIES",A&E H265
 http://prize10.vip/live/a89207786/112233Aa/71761.m3u8
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/axn.png" group-title="FILMES E SÉRIES",AXN FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13003.ts
@@ -117,11 +117,11 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13024.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13025.ts
 #EXTINF:-1 tvg-id="SONY Movies" tvg-name="Sony Movies SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sonymovies.png" group-title="FILMES E SÉRIES",Sony Movies SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13026.ts
-#EXTINF:-1 tvg-id="SPACE HD" tvg-name="Space FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/space.png" group-title="FILMES E SÉRIES",Space FHD
+#EXTINF:-1 tvg-id="Space HD.br" tvg-name="Space FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/space.png" group-title="FILMES E SÉRIES",Space FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13027.ts
-#EXTINF:-1 tvg-id="SPACE HD" tvg-name="Space HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/space.png" group-title="FILMES E SÉRIES",Space HD
+#EXTINF:-1 tvg-id="Space HD.br" tvg-name="Space HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/space.png" group-title="FILMES E SÉRIES",Space HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13028.ts
-#EXTINF:-1 tvg-id="SPACE HD" tvg-name="Space SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/space.png" group-title="FILMES E SÉRIES",Space SD
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/space.png" group-title="FILMES E SÉRIES",Space SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13029.ts
 #EXTINF:-1 tvg-id="USA HD" tvg-name="USA FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/usa.png" group-title="FILMES E SÉRIES",USA FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13033.ts
@@ -131,33 +131,33 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13034.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13035.ts
 #EXTINF:-1 tvg-id="TNT Novelas.br" tvg-name="TNT Novelas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntnovelas.png" group-title="FILMES E SÉRIES",TNT Novelas FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13036.ts
-#EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntnovelas.png" group-title="FILMES E SÉRIES",TNT Novelas HD
+#EXTINF:-1 tvg-id="TNT Novelas.br" tvg-name="TNT Novelas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntnovelas.png" group-title="FILMES E SÉRIES",TNT Novelas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13037.ts
-#EXTINF:-1 tvg-id="TNT NOVELAS" tvg-name="TNT Novelas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntnovelas.png" group-title="FILMES E SÉRIES",TNT Novelas SD
+#EXTINF:-1 tvg-id="TNT Novelas.br" tvg-name="TNT Novelas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntnovelas.png" group-title="FILMES E SÉRIES",TNT Novelas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13038.ts
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT FHD
+#EXTINF:-1 tvg-id="TNT HD.br" tvg-name="TNT FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13039.ts
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT HD
+#EXTINF:-1 tvg-id="TNT HD.br" tvg-name="TNT HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13040.ts
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT SD
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tnt.png" group-title="FILMES E SÉRIES",TNT SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13041.ts
-#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT Séries FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntseries.png" group-title="FILMES E SÉRIES",TNT Séries FHD
+#EXTINF:-1 tvg-id="TNT Series HD.br" tvg-name="TNT Séries FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntseries.png" group-title="FILMES E SÉRIES",TNT Séries FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13042.ts
-#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT Séries HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntseries.png" group-title="FILMES E SÉRIES",TNT Séries HD
+#EXTINF:-1 tvg-id="TNT Series HD.br" tvg-name="TNT Séries HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntseries.png" group-title="FILMES E SÉRIES",TNT Séries HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13043.ts
-#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT Séries SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntseries.png" group-title="FILMES E SÉRIES",TNT Séries SD
+#EXTINF:-1 tvg-id="TNT Series.br" tvg-name="TNT Séries SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tntseries.png" group-title="FILMES E SÉRIES",TNT Séries SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13044.ts
-#EXTINF:-1 tvg-id="Universal TV HD" tvg-name="Universal TV FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/universaltv.png" group-title="FILMES E SÉRIES",Universal TV FHD
+#EXTINF:-1 tvg-id="Universal TV HD.br" tvg-name="Universal TV FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/universaltv.png" group-title="FILMES E SÉRIES",Universal TV FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13045.ts
-#EXTINF:-1 tvg-id="Universal TV HD" tvg-name="Universal TV HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/universaltv.png" group-title="FILMES E SÉRIES",Universal TV HD
+#EXTINF:-1 tvg-id="Universal TV HD.br" tvg-name="Universal TV HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/universaltv.png" group-title="FILMES E SÉRIES",Universal TV HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13046.ts
-#EXTINF:-1 tvg-id="UNIVERSAL TV HD" tvg-name="Universal TV SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/universaltv.png" group-title="FILMES E SÉRIES",Universal TV SD
+#EXTINF:-1 tvg-id="Universal TV HD.br" tvg-name="Universal TV SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/universaltv.png" group-title="FILMES E SÉRIES",Universal TV SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13047.ts
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/studiouniversal.png" group-title="FILMES E SÉRIES",Studio Universal FHD
+#EXTINF:-1 tvg-id="Studio Universal.br" tvg-name="Studio Universal FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/studiouniversal.png" group-title="FILMES E SÉRIES",Studio Universal FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13048.ts
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/studiouniversal.png" group-title="FILMES E SÉRIES",Studio Universal HD
+#EXTINF:-1 tvg-id="Studio Universal.br" tvg-name="Studio Universal HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/studiouniversal.png" group-title="FILMES E SÉRIES",Studio Universal HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13049.ts
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL HD" tvg-name="Studio Universal SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/studiouniversal.png" group-title="FILMES E SÉRIES",Studio Universal SD
+#EXTINF:-1 tvg-id="Studio Universal.br" tvg-name="Studio Universal SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/studiouniversal.png" group-title="FILMES E SÉRIES",Studio Universal SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13050.ts
 #EXTINF:-1 tvg-id="Warner Channel HD.br" tvg-name="Warner Channel FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/warnerchannel.png" group-title="FILMES E SÉRIES",Warner Channel FHD
 http://onlivex.pro/live/563593/vGfUjy/90236.m3u8
@@ -167,103 +167,103 @@ http://prize10.vip/live/a89207786/112233Aa/90236.m3u8
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13052.ts
 #EXTINF:-1 tvg-id="Warner Channel.br" tvg-name="Warner Channel" tvg-logo="http://www.fontedecanais.tv/logos/canais/warnerchannel.png" group-title="FILMES E SÉRIES",Warner Channel
 http://onlivex.pro/live/975127/wAgnmU/90236.m3u8
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tcm.png" group-title="FILMES E SÉRIES",TCM FHD
+#EXTINF:-1 tvg-id="TCM.br" tvg-name="TCM FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tcm.png" group-title="FILMES E SÉRIES",TCM FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13054.ts
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tcm.png" group-title="FILMES E SÉRIES",TCM HD
+#EXTINF:-1 tvg-id="TCM.br" tvg-name="TCM HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tcm.png" group-title="FILMES E SÉRIES",TCM HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13055.ts
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tcm.png" group-title="FILMES E SÉRIES",TCM SD
+#EXTINF:-1 tvg-id="TCM.br" tvg-name="TCM SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tcm.png" group-title="FILMES E SÉRIES",TCM SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13056.ts
-#EXTINF:-1 tvg-id="Film & Arts" tvg-name="Film & Arts FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="FILMES E SÉRIES",Film & Arts FHD
+#EXTINF:-1 tvg-id="Film and Arts HD.br" tvg-name="Film & Arts FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="FILMES E SÉRIES",Film & Arts FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13057.ts
-#EXTINF:-1 tvg-id="Film & Arts" tvg-name="Film & Arts HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="FILMES E SÉRIES",Film & Arts HD
+#EXTINF:-1 tvg-id="Film and Arts HD.br" tvg-name="Film & Arts HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="FILMES E SÉRIES",Film & Arts HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13058.ts
 #EXTINF:-1 tvg-id="FILM & ARTS" tvg-name="Film & Arts SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="FILMES E SÉRIES",Film & Arts SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13059.ts
  
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="HBO",HBO FHD
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="HBO",HBO FHD
 http://onlivex.pro/live/563593/vGfUjy/90247.m3u8
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="HBO",HBO HD
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="HBO",HBO HD
 http://rotasvip.net/live/gabriela1807/Sj98775533/90247.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="HBO",HBO SD
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="HBO",HBO SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14002.ts
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png" group-title="HBO",HBO 2 FHD
+#EXTINF:-1 tvg-id="HBO 2 HD.br" tvg-name="HBO 2 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png" group-title="HBO",HBO 2 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14003.ts
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png" group-title="HBO",HBO 2 HD
+#EXTINF:-1 tvg-id="HBO 2 HD.br" tvg-name="HBO 2 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png" group-title="HBO",HBO 2 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14004.ts
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png" group-title="HBO",HBO 2 SD
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png" group-title="HBO",HBO 2 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14005.ts
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png" group-title="HBO",HBO Family FHD
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png" group-title="HBO",HBO Family FHD
 http://onlivex.pro/live/563593/vGfUjy/90637.m3u8
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png" group-title="HBO",HBO Family HD
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png" group-title="HBO",HBO Family HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14007.ts
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png" group-title="HBO",HBO Family SD
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png" group-title="HBO",HBO Family SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14008.ts
-#EXTINF:-1 tvg-id="HBO Mundi HD" tvg-name="HBO Mundi FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi FHD
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi FHD
 http://onlivex.pro/live/563593/vGfUjy/103496.m3u8
-#EXTINF:-1 tvg-id="HBO Mundi HD" tvg-name="HBO Mundi HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi HD
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14010.ts
-#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi SD
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14011.ts
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboplus.png" group-title="HBO",HBO Plus FHD
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO Plus FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboplus.png" group-title="HBO",HBO Plus FHD
 http://onlivex.pro/live/563593/vGfUjy/90635.m3u8
-#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboplus.png" group-title="HBO",HBO Plus HD
+#EXTINF:-1 tvg-id="HBO Plus.br" tvg-name="HBO Plus HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboplus.png" group-title="HBO",HBO Plus HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14013.ts
-#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO Plus SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboplus.png" group-title="HBO",HBO Plus SD
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO Plus SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboplus.png" group-title="HBO",HBO Plus SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14014.ts
-#EXTINF:-1 tvg-id="HBO Pop HD" tvg-name="HBO Pop FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbopop.png" group-title="HBO",HBO Pop FHD
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbopop.png" group-title="HBO",HBO Pop FHD
 http://onlivex.pro/live/563593/vGfUjy/103495.m3u8
-#EXTINF:-1 tvg-id="HBO Pop HD" tvg-name="HBO Pop HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbopop.png" group-title="HBO",HBO Pop HD
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbopop.png" group-title="HBO",HBO Pop HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14016.ts
-#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbopop.png" group-title="HBO",HBO Pop SD
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbopop.png" group-title="HBO",HBO Pop SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14017.ts
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png" group-title="HBO",HBO Signature FHD
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png" group-title="HBO",HBO Signature FHD
 http://onlivex.pro/live/563593/vGfUjy/103494.m3u8
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png" group-title="HBO",HBO Signature HD
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png" group-title="HBO",HBO Signature HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14019.ts
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png" group-title="HBO",HBO Signature SD
+#EXTINF:-1 tvg-id="HBO Signature.br" tvg-name="HBO Signature SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png" group-title="HBO",HBO Signature SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14020.ts
-#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO Xtreme FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme FHD
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme FHD
 http://onlivex.pro/live/563593/vGfUjy/90636.m3u8
-#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO Xtreme HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme HD
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14022.ts
-#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme SD
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO Xtreme SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14023.ts
  
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action FHD
+#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="Telecine Action FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action FHD
 http://onlivex.pro/live/563593/vGfUjy/90239.m3u8
-#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action HD
+#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15001.ts
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action SD
+#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15002.ts
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult FHD
+#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="Telecine Cult FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult FHD
 http://onlivex.pro/live/563593/vGfUjy/103456.m3u8
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult HD
+#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="Telecine Cult HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15004.ts
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult SD
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15005.ts
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun FHD
+#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="Telecine Fun FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun FHD
 http://onlivex.pro/live/563593/vGfUjy/72354.m3u8
-#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun HD
+#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="Telecine Fun HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15007.ts
-#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun SD
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15008.ts
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca FHD
+#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca FHD
 http://onlivex.pro/live/563593/vGfUjy/90238.m3u8
-#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca HD
+#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15010.ts
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca SD
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15011.ts
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium FHD
+#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="Telecine Premium FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium FHD
 http://onlivex.pro/live/563593/vGfUjy/90237.m3u8
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium HD
+#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="Telecine Premium HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15013.ts
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium SD
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15014.ts
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch FHD
+#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="Telecine Touch FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch FHD
 http://onlivex.pro/live/563593/vGfUjy/103454.m3u8
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch HD
+#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="Telecine Touch HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15016.ts
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch SD
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15017.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="CINE SKY",Cine SKY 01
@@ -299,9 +299,9 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19003.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19004.ts
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass 3 (ao vivo)" tvg-logo="http://www.fontedecanais.tv/logos/canais/ufcfightpass.png" group-title="ESPORTES",UFC Fight Pass 3 (ao vivo)
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19005.ts
-#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/combate.png" group-title="ESPORTES",Combate FHD
+#EXTINF:-1 tvg-id="Combate HD.br" tvg-name="Combate FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/combate.png" group-title="ESPORTES",Combate FHD
 http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/231453.m3u8
-#EXTINF:-1 tvg-id="Combate " tvg-name="Combate HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/combate.png" group-title="ESPORTES",Combate HD
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/combate.png" group-title="ESPORTES",Combate HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19007.ts
 #EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/combate.png" group-title="ESPORTES",Combate SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19008.ts
@@ -338,21 +338,21 @@ http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/233162.m3u8
 http://cdn.shytsky.top/live/78189814/93059224/829590.m3u8
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21000.ts
-#EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV HD
+#EXTINF:-1 tvg-id="SporTV HD.br" tvg-name="SporTV HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV HD
 http://meusrv.top/live/718862248/849785554/216.m3u8
-#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV SD
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV SD
 http://newoneblue.site/live/58257413/19193442/236284.m3u8
-#EXTINF:-1 tvg-id="Sportv 2" tvg-name="SporTV 2 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 FHD
+#EXTINF:-1 tvg-id="SporTV2 HD.br" tvg-name="SporTV 2 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21003.ts
-#EXTINF:-1 tvg-id="Sportv 2" tvg-name="SporTV 2 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 HD
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 HD
 http://newoneblue.site/live/58257413/19193442/236290.m3u8
-#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 SD
+#EXTINF:-1 tvg-id="SporTV2 HD.br" tvg-name="SporTV 2 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 SD
 http://meusrv.top/live/522162677/298529473/144.m3u8
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 FHD
+#EXTINF:-1 tvg-id="SporTV3 HD.br" tvg-name="SporTV 3 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21006.ts
-#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 HD
+#EXTINF:-1 tvg-id="SporTV3 HD.br" tvg-name="SporTV 3 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 HD
 http://newoneblue.site/live/58257413/19193442/236296.m3u8
-#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 SD
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv3.png" group-title="SporTV",SporTV 3 SD
 http://meusrv.top/live/522162677/298529473/146.m3u8
 
 #EXTINF:-1 tvg-id="SportTVPlus.pt@SD" tvg-name="SporT TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sport_TV%2B_%282023%29.svg/960px-Sport_TV%2B_%282023%29.svg.png" group-title="PORTUGAL",SporT TV+
@@ -503,61 +503,61 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn6.png" group-title="ESPN",ESPN 6 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22017.ts
 
-#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="Premiere Clubes FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",﻿Premiere Clubes FHD
+#EXTINF:-1 tvg-id="Premiere Clubes HD.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",﻿Premiere Clubes FHD
 http://rotasvip.net/live/jacksonmaia/Jkm036277/72264.m3u8
-#EXTINF:-1 tvg-id="PREMIERE CLUBES 60 FPS HD" tvg-name="Premiere Clubes HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",﻿Premiere Clubes HD
+#EXTINF:-1 tvg-id="Premiere Clubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",﻿Premiere Clubes HD
 http://cdn.shytsky.top/live/78189814/93059224/250240.m3u8
-#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="Premiere Clubes HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",﻿Premiere Clubes HD
+#EXTINF:-1 tvg-id="Premiere Clubes HD.br" tvg-name="Premiere Clubes HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",﻿Premiere Clubes HD
 http://rotasvip.net/live/jacksonmaia/Jkm036277/72262.m3u8
-#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="Premiere Clubes H265" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere Clubes H265
+#EXTINF:-1 tvg-id="Premiere Clubes.br" tvg-name="Premiere Clubes H265" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere Clubes H265
 http://rotasvip.net/live/jacksonmaia/Jkm036277/72263.m3u8
-#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere 1 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 1 FHD
+#EXTINF:-1 tvg-id="Premiere FC HD.br" tvg-name="Premiere 1 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 1 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20000.ts
-#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere 1 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 1 HD
+#EXTINF:-1 tvg-id="Premiere FC HD.br" tvg-name="Premiere 1 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 1 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20001.ts
-#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere 1 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 1 SD
+#EXTINF:-1 tvg-id="Premiere FC HD.br" tvg-name="Premiere 1 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 1 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20002.ts
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 2 FHD
+#EXTINF:-1 tvg-id="Premiere 2.br" tvg-name="Premiere 2 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 2 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20003.ts
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 2 HD
+#EXTINF:-1 tvg-id="Premiere 2.br" tvg-name="Premiere 2 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 2 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20004.ts
-#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 2 SD
+#EXTINF:-1 tvg-id="Premiere 2.br" tvg-name="Premiere 2 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 2 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20005.ts
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 3 FHD
+#EXTINF:-1 tvg-id="Premiere 3 HD.br" tvg-name="Premiere 3 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 3 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20006.ts
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 3 HD
+#EXTINF:-1 tvg-id="Premiere 3 HD.br" tvg-name="Premiere 3 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 3 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20007.ts
-#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 3 SD
+#EXTINF:-1 tvg-id="Premiere 3 HD.br" tvg-name="Premiere 3 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 3 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20008.ts
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 4 FHD
+#EXTINF:-1 tvg-id="Premiere 4.br" tvg-name="Premiere 4 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 4 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20009.ts
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 4 HD
+#EXTINF:-1 tvg-id="Premiere 4.br" tvg-name="Premiere 4 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 4 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20010.ts
-#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 4 SD
+#EXTINF:-1 tvg-id="Premiere 4.br" tvg-name="Premiere 4 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 4 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20011.ts
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 5 FHD
+#EXTINF:-1 tvg-id="Premiere HD 5.br" tvg-name="Premiere 5 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 5 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20012.ts
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 5 HD
+#EXTINF:-1 tvg-id="Premiere 5 Brazil.br" tvg-name="Premiere 5 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 5 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20013.ts
-#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 5 SD
+#EXTINF:-1 tvg-id="Premiere 5 Brazil.br" tvg-name="Premiere 5 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 5 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20014.ts
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 6 FHD
+#EXTINF:-1 tvg-id="Premiere 6 HD.br" tvg-name="Premiere 6 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 6 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20015.ts
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 6 HD
+#EXTINF:-1 tvg-id="Premiere 6 HD.br" tvg-name="Premiere 6 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 6 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20016.ts
-#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 6 SD
+#EXTINF:-1 tvg-id="Premiere 6 HD.br" tvg-name="Premiere 6 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 6 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20017.ts
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 7 FHD
+#EXTINF:-1 tvg-id="Premiere 7 HD.br" tvg-name="Premiere 7 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 7 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20018.ts
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 7 HD
+#EXTINF:-1 tvg-id="Premiere 7 HD.br" tvg-name="Premiere 7 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 7 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20019.ts
-#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 7 SD
+#EXTINF:-1 tvg-id="Premiere 7 HD.br" tvg-name="Premiere 7 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 7 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20020.ts
-#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 8 FHD
+#EXTINF:-1 tvg-id="Premiere 8.br" tvg-name="Premiere 8 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 8 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20021.ts
-#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 8 HD
+#EXTINF:-1 tvg-id="Premiere 8.br" tvg-name="Premiere 8 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 8 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20022.ts
-#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 8 SD
+#EXTINF:-1 tvg-id="Premiere 8.br" tvg-name="Premiere 8 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 8 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20023.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="MAX 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="MAX",MAX 01
@@ -760,9 +760,9 @@ http://onlivex.pro/live/975127/wAgnmU/103501.m3u8
 http://onlivex.pro/live/975127/wAgnmU/103492.m3u8
 #EXTINF:-1 tvg-id="Modo Viagem" tvg-name="MODO VIAGEM" tvg-logo="https://www.fontedecanais.tv/logos/canais/modoviagem.png" group-title="ENTRETENIMENTO",MODO VIAGEM
 http://onlivex.pro/live/975127/wAgnmU/103488.m3u8
-#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC" tvg-logo="https://www.fontedecanais.tv/logos/canais/tlc.png" group-title="ENTRETENIMENTO",TLC
+#EXTINF:-1 tvg-id="TLC HD.br" tvg-name="TLC" tvg-logo="https://www.fontedecanais.tv/logos/canais/tlc.png" group-title="ENTRETENIMENTO",TLC
 http://onlivex.pro/live/975127/wAgnmU/103465.m3u8
-#EXTINF:-1 tvg-id="Woohoo" tvg-name="WooHoo" tvg-logo="https://www.fontedecanais.tv/logos/canais/woohoo.png" group-title="ENTRETENIMENTO",WooHoo
+#EXTINF:-1 tvg-id="WooHoo HD.br" tvg-name="WooHoo" tvg-logo="https://www.fontedecanais.tv/logos/canais/woohoo.png" group-title="ENTRETENIMENTO",WooHoo
 http://onlivex.pro/live/975127/wAgnmU/103449.m3u8
 
 #EXTINF:-1 tvg-id="Box Kids" tvg-name="Box Kids FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/boxkids.png" group-title="DESENHOS",Box Kids FHD
@@ -820,47 +820,41 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24040.ts
 #EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV Rá Tim Bum SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tvratimbum.png" group-title="DESENHOS",TV Rá Tim Bum SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24041.ts
 
-#EXTINF:-1 tvg-id="Bandnews" tvg-name="Band News FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandnews.png" group-title="NOTÍCIAS",Band News FHD
+#EXTINF:-1 tvg-id="Bandnews" tvg-name="Band News.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandnews.png" group-title="NOTÍCIAS",Band News FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25000.ts
-#EXTINF:-1 tvg-id="Bandnews" tvg-name="Band News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandnews.png" group-title="NOTÍCIAS",Band News HD
+#EXTINF:-1 tvg-id="Bandnews" tvg-name="Band News.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandnews.png" group-title="NOTÍCIAS",Band News HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25001.ts
-#EXTINF:-1 tvg-id="Bandnews" tvg-name="Band News SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandnews.png" group-title="NOTÍCIAS",Band News SD
+#EXTINF:-1 tvg-id="Bandnews" tvg-name="Band News.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandnews.png" group-title="NOTÍCIAS",Band News SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25002.ts
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnbrasil.png" group-title="NOTÍCIAS",CNN Brasil FHD
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnbrasil.png" group-title="NOTÍCIAS",CNN Brasil FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25003.ts
-#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnbrasil.png" group-title="NOTÍCIAS",CNN Brasil HD
+#EXTINF:-1 tvg-id="CNN Brasil.br" tvg-name="CNN Brasil HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnbrasil.png" group-title="NOTÍCIAS",CNN Brasil HD
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN Brasil SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnbrasil.png" group-title="NOTÍCIAS",CNN Brasil SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25005.ts
-#EXTINF:-1 tvg-id="Globo News HD" tvg-name="Globo News FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globonews.png" group-title="NOTÍCIAS",Globo News FHD
+#EXTINF:-1 tvg-id="Globo News HD.br" tvg-name="Globo News FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globonews.png" group-title="NOTÍCIAS",Globo News FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25006.ts
-#EXTINF:-1 tvg-id="Globo News HD" tvg-name="Globo News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globonews.png" group-title="NOTÍCIAS",Globo News HD
+#EXTINF:-1 tvg-id="Globo News.br" tvg-name="Globo News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globonews.png" group-title="NOTÍCIAS",Globo News HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25007.ts
-#EXTINF:-1 tvg-id="Globo News HD" tvg-name="Globo News SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globonews.png" group-title="NOTÍCIAS",Globo News SD
+#EXTINF:-1 tvg-id="Globo News.br" tvg-name="Globo News SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globonews.png" group-title="NOTÍCIAS",Globo News SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25008.ts
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/jpnews.png" group-title="NOTÍCIAS",Jovem Pan News FHD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25009.ts
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/jpnews.png" group-title="NOTÍCIAS",Jovem Pan News HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25010.ts
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/jpnews.png" group-title="NOTÍCIAS",Jovem Pan News SD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25011.ts
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png" group-title="NOTÍCIAS",Record News FHD
+#EXTINF:-1 tvg-id="Record News HD.br" tvg-name="Record News FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png" group-title="NOTÍCIAS",Record News FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25012.ts
-#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png" group-title="NOTÍCIAS",Record News HD
+#EXTINF:-1 tvg-id="Record News.br" tvg-name="Record News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png" group-title="NOTÍCIAS",Record News HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25013.ts
-#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="Record News SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png" group-title="NOTÍCIAS",Record News SD
+#EXTINF:-1 tvg-id="Record News.br" tvg-name="Record News SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png" group-title="NOTÍCIAS",Record News SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25014.ts
-#EXTINF:-1 tvg-id="CNN Money" tvg-name="CNN Money FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png" group-title="NOTÍCIAS",CNN Money FHD
+#EXTINF:-1 tvg-id="CNN Money.br" tvg-name="CNN Money FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png" group-title="NOTÍCIAS",CNN Money FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25015.ts
-#EXTINF:-1 tvg-id="CNN Money" tvg-name="CNN Money HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png" group-title="NOTÍCIAS",CNN Money HD
+#EXTINF:-1 tvg-id="CNN Money.br" tvg-name="CNN Money HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png" group-title="NOTÍCIAS",CNN Money HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25016.ts
-#EXTINF:-1 tvg-id="CNN Brasil Money HD" tvg-name="CNN Money SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png" group-title="NOTÍCIAS",CNN Money SD
+#EXTINF:-1 tvg-id="CNN Money.br" tvg-name="CNN Money SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png" group-title="NOTÍCIAS",CNN Money SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25017.ts
-#EXTINF:-1 tvg-id="TIMES EXCLUSIVO CNBC" tvg-name="Times Brasil (CNBC) FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/timesbrasil.png" group-title="NOTÍCIAS",Times Brasil (CNBC) FHD
+#EXTINF:-1 tvg-id="TIMES EXCLUSIVO CNBC.br" tvg-name="Times Brasil (CNBC) FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/timesbrasil.png" group-title="NOTÍCIAS",Times Brasil (CNBC) FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25018.ts
-#EXTINF:-1 tvg-id="TIMES EXCLUSIVO CNBC" tvg-name="Times Brasil (CNBC) HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/timesbrasil.png" group-title="NOTÍCIAS",Times Brasil (CNBC) HD
+#EXTINF:-1 tvg-id="TIMES EXCLUSIVO CNBC.br" tvg-name="Times Brasil (CNBC) HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/timesbrasil.png" group-title="NOTÍCIAS",Times Brasil (CNBC) HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25019.ts
-#EXTINF:-1 tvg-id="TIMES | Exclusivo CNBC" tvg-name="Times Brasil (CNBC) SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/timesbrasil.png" group-title="NOTÍCIAS",Times Brasil (CNBC) SD
+#EXTINF:-1 tvg-id="TIMES EXCLUSIVO CNBC.br" tvg-name="Times Brasil (CNBC) SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/timesbrasil.png" group-title="NOTÍCIAS",Times Brasil (CNBC) SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25020.ts
 #EXTINF:-1 tvg-id="SBT NEWS HD" tvg-name="SBT News FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="NOTÍCIAS",SBT News FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25021.ts
