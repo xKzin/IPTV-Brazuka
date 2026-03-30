@@ -321,19 +321,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19024.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19025.ts
 #EXTINF:-1 tvg-id="SportyNet.br" tvg-name="SportyNet 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportynet3.png" group-title="ESPORTES",SportyNet 03
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19026.ts
-#EXTINF:-1 tvg-id="DAZN1.uk@Portugal" tvg-name="DAZN 1" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="ESPORTES",DAZN 1
-http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/233153.m3u8
-#EXTINF:-1 tvg-id="DAZN2.uk@Portugal" tvg-name="DAZN 2" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="ESPORTES",DAZN 2
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19029.ts
-#EXTINF:-1 tvg-id="DAZN3.uk@Portugal" tvg-name="DAZN 3" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="ESPORTES",DAZN 3
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19030.ts
-#EXTINF:-1 tvg-id="DAZN4.uk@Portugal" tvg-name="DAZN 4" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="ESPORTES",DAZN 4
-http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774651.m3u8
-#EXTINF:-1 tvg-id="DAZN5.uk@Portugal" tvg-name="DAZN 5" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="ESPORTES",DAZN 5
-http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/233162.m3u8
 
-#EXTINF:-1 tvg-id="SporTV HD.br" tvg-name="SporTV 60FPS FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV 60FPS FHD
-http://cdn.shytsky.top/live/78189814/93059224/829590.m3u8
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/21000.ts
 #EXTINF:-1 tvg-id="SporTV HD.br" tvg-name="SporTV HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV HD
@@ -399,6 +387,16 @@ http://xxip9.top:8080/14263899/04468572/35264
 http://cord-cutter.net:8080/2145165799/eddelley31@yahoo.com/35264
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="DAZN 1.pt" tvg-name="DAZN 1³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/500px-DAZN_1.svg.png",DAZN 1³
 http://cord-cutter.net:8080/32ED4m/754887/35264
+#EXTINF:-1 tvg-id="DAZN1.uk@Portugal" tvg-name="DAZN 1 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="PORTUGAL",DAZN 1 HD
+http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/233153.m3u8
+#EXTINF:-1 tvg-id="DAZN2.uk@Portugal" tvg-name="DAZN 2" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="PORTUGAL",DAZN 2
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19029.ts
+#EXTINF:-1 tvg-id="DAZN3.uk@Portugal" tvg-name="DAZN 3" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="PORTUGAL",DAZN 3
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19030.ts
+#EXTINF:-1 tvg-id="DAZN4.uk@Portugal" tvg-name="DAZN 4" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="PORTUGAL",DAZN 4
+http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774651.m3u8
+#EXTINF:-1 tvg-id="DAZN5.uk@Portugal" tvg-name="DAZN 5" tvg-logo="http://www.fontedecanais.tv/logos/canais/dazn.png" group-title="PORTUGAL",DAZN 5
+http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/233162.m3u8
 #EXTINF:-1 tvg-id="ODISSEIA HD.pt" tvg-name="ODISSEIA" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/9229667b2980b3ff9333285fd7e81bd3_LOGO-RGB_ODISSEIA-Color-Claim-txtB.png" group-title="PORTUGAL",ODISSEIA
 http://newoneblue.site/live/58257413/19193442/1774697.m3u8
 #EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="PORTUGAL",SIC
