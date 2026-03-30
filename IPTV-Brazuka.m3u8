@@ -53,7 +53,7 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17039.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17040.ts
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="CANAIS ABERTOS",SBT
 https://aovivo.maissbt.com/channel_720.m3u8
-#EXTINF:-1 tvg-id="Cultura HD.br,Cultura.br" tvg-name="Cultura FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cultura.png" group-title="CANAIS ABERTOS",Cultura FHD
+#EXTINF:-1 tvg-id="Cultura HD.br" tvg-name="Cultura FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cultura.png" group-title="CANAIS ABERTOS",Cultura FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17003.ts
 #EXTINF:-1 tvg-id="TV Gazeta HD.br" tvg-name="TV Gazeta" tvg-logo="http://www.fontedecanais.tv/logos/canais/tvgazeta.png" group-title="CANAIS ABERTOS",TV Gazeta
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17048.ts
