@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/refs/heads/main/epg-brasil2.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/refs/heads/main/epg-brasil.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/refs/heads/main/epg-portugal.xml"
-#EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo FHD
+#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo FHD
 http://rotasvip.net/live/jacksonmaia/Jkm036277/72040.m3u8
 #EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="Globo São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18025.ts
