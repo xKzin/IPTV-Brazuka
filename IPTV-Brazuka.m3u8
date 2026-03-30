@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/refs/heads/main/epg-brasil2.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/refs/heads/main/epg-portugal.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/refs/heads/main/epg-brasil2.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/refs/heads/main/epg-brasil.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/refs/heads/main/epg-portugal.xml"
 #EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo FHD
 http://rotasvip.net/live/jacksonmaia/Jkm036277/72040.m3u8
 #EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="Globo São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo HD
@@ -9,9 +9,9 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18026.ts
 http://onlivex.pro/live/563593/vGfUjy/131200.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Nordeste FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18018.ts
-#EXTINF:-1 tvg-id="Inter TV Grande Minas.br" tvg-name="Inter TV Grande Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Inter TV Grande Minas HD
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="Inter TV Grande Minas HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Inter TV Grande Minas HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18040.ts
-#EXTINF:-1 tvg-id="Inter TV Grande Minas.br" tvg-name="Inter TV Grande Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Inter TV Grande Minas SD
+#EXTINF:-1 tvg-id="InterTV Grande Minas HD.br" tvg-name="Inter TV Grande Minas SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Inter TV Grande Minas SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18041.ts
 #EXTINF:-1 tvg-id="Globo Rio HD.br" tvg-name="Globo Rio FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Rio FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18021.ts
