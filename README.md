@@ -24,4 +24,4 @@
 
 | https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml
 
-| https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml
+| https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml
