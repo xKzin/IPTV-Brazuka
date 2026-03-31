@@ -1,10 +1,10 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-brasil.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-portugal.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-uk.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-italia2.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-brasil.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-portugal.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-uk.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-italia2.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/refs/heads/main/epg-spain.xml"
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo FHD
 http://rotasvip.net/live/jacksonmaia/Jkm036277/72040.m3u8
 #EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="Globo São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18025.ts
-#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="Globo São Paulo SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo SD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18026.ts
+#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="Globo São Paulo" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/111730.m3u8
 #EXTINF:-1 tvg-id="Globo Minas.br" tvg-name="Globo Minas FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Minas FHD
 http://onlivex.pro/live/563593/vGfUjy/131200.m3u8
 #EXTINF:-1 tvg-id="Globo Nordeste HD.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo Nordeste FHD
@@ -182,85 +182,89 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13059.ts
 http://onlivex.pro/live/563593/vGfUjy/90247.m3u8
 #EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="HBO",HBO HD
 http://rotasvip.net/live/gabriela1807/Sj98775533/90247.m3u8
-#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="HBO",HBO SD
+#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO HD²" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="HBO",HBO HD²
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/111737.m3u8
+#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="HBO",HBO
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14002.ts
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png" group-title="HBO",HBO 2 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14003.ts
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png" group-title="HBO",HBO 2 HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14004.ts
-#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png" group-title="HBO",HBO 2 SD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14005.ts
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png" group-title="HBO",HBO 2
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/111736.m3u8
 #EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png" group-title="HBO",HBO Family FHD
 http://onlivex.pro/live/563593/vGfUjy/90637.m3u8
 #EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png" group-title="HBO",HBO Family HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14007.ts
-#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png" group-title="HBO",HBO Family SD
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png" group-title="HBO",HBO Family
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14008.ts
 #EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi FHD
 http://onlivex.pro/live/563593/vGfUjy/103496.m3u8
 #EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14010.ts
-#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi SD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14011.ts
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbomundi.png" group-title="HBO",HBO Mundi
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/111738.m3u8
 #EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO Plus FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboplus.png" group-title="HBO",HBO Plus FHD
 http://onlivex.pro/live/563593/vGfUjy/90635.m3u8
 #EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO Plus HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboplus.png" group-title="HBO",HBO Plus HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14013.ts
-#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO Plus SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboplus.png" group-title="HBO",HBO Plus SD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14014.ts
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO Plus" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboplus.png" group-title="HBO",HBO Plus
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/111739.m3u8
 #EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbopop.png" group-title="HBO",HBO Pop FHD
 http://onlivex.pro/live/563593/vGfUjy/103495.m3u8
 #EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbopop.png" group-title="HBO",HBO Pop HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14016.ts
-#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbopop.png" group-title="HBO",HBO Pop SD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14017.ts
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbopop.png" group-title="HBO",HBO Pop
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/111740.m3u8
 #EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png" group-title="HBO",HBO Signature FHD
 http://onlivex.pro/live/563593/vGfUjy/103494.m3u8
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature FHD²" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png" group-title="HBO",HBO Signature FHD²
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/111741.m3u8
 #EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png" group-title="HBO",HBO Signature HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14019.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png" group-title="HBO",HBO Signature SD
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbosignature.png" group-title="HBO",HBO Signature
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14020.ts
 #EXTINF:-1 tvg-id="HBO Xtreme HD.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme FHD
 http://onlivex.pro/live/563593/vGfUjy/90636.m3u8
 #EXTINF:-1 tvg-id="HBO Xtreme HD.br" tvg-name="HBO Xtreme HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14022.ts
-#EXTINF:-1 tvg-id="HBO Xtreme HD.br" tvg-name="HBO Xtreme SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme SD
+#EXTINF:-1 tvg-id="HBO Xtreme HD.br" tvg-name="HBO Xtreme" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14023.ts
 #EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="Telecine Action FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action FHD
 http://onlivex.pro/live/563593/vGfUjy/90239.m3u8
 #EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15001.ts
-#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="Telecine Action SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action SD
+#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="Telecine Action" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15002.ts
 #EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="Telecine Cult FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult FHD
 http://onlivex.pro/live/563593/vGfUjy/103456.m3u8
 #EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="Telecine Cult HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15004.ts
-#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult SD
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinecult.png" group-title="TELECINE",Telecine Cult
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15005.ts
 #EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="Telecine Fun FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun FHD
 http://onlivex.pro/live/563593/vGfUjy/72354.m3u8
 #EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="Telecine Fun HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15007.ts
-#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun SD
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinefun.png" group-title="TELECINE",Telecine Fun
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15008.ts
 #EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca FHD
 http://onlivex.pro/live/563593/vGfUjy/90238.m3u8
 #EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15010.ts
-#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca SD
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepipoca.png" group-title="TELECINE",Telecine Pipoca
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15011.ts
 #EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="Telecine Premium FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium FHD
 http://onlivex.pro/live/563593/vGfUjy/90237.m3u8
 #EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="Telecine Premium HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15013.ts
-#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium SD
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinepremium.png" group-title="TELECINE",Telecine Premium
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15014.ts
 #EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="Telecine Touch FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch FHD
 http://onlivex.pro/live/563593/vGfUjy/103454.m3u8
 #EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="Telecine Touch HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15016.ts
-#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch SD
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15017.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="CINE SKY",Cine SKY 01
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16000.ts
@@ -318,13 +322,12 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19024.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19025.ts
 #EXTINF:-1 tvg-id="SportyNet.br" tvg-name="SportyNet 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportynet3.png" group-title="ESPORTES",SportyNet 03
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19026.ts
-
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV FHD
 http://onlivex.pro/live/975127/wAgnmU/131188.m3u8
 #EXTINF:-1 tvg-id="SporTV HD.br" tvg-name="SporTV HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV HD
 http://onlivex.pro/live/563593/vGfUjy/72329.m3u8
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv.png" group-title="SporTV",SporTV SD
-http://newoneblue.site/live/58257413/19193442/236284.m3u8
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/306510.m3u8
 #EXTINF:-1 tvg-id="SporTV2 HD.br" tvg-name="SporTV 2 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 FHD
 http://onlivex.pro/live/563593/vGfUjy/103472.m3u8
 #EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sportv2.png" group-title="SporTV",SporTV 2 HD
@@ -487,7 +490,7 @@ http://onlivex.pro/live/975127/wAgnmU/71911.m3u8
 #EXTINF:-1 tvg-id="ESPN 2.br" tvg-name="ESPN 2 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn2.png" group-title="ESPN",ESPN 2 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22003.ts
 #EXTINF:-1 tvg-id="ESPN 2.br" tvg-name="ESPN 2 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn2.png" group-title="ESPN",ESPN 2 HD
-http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/437924.m3u8
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/306486.m3u8
 #EXTINF:-1 tvg-id="ESPN 2.br" tvg-name="ESPN 2 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn2.png" group-title="ESPN",ESPN 2 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22005.ts
 #EXTINF:-1 tvg-id="ESPN 3.br" tvg-name="ESPN 3 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn3.png" group-title="ESPN",ESPN 3 FHD
@@ -925,6 +928,14 @@ http://titv.sytes.net:8080/live/inanenginTRTR/fJKjPgWSAd/473855.m3u8
 http://titv.sytes.net:8080/live/inanenginTRTR/fJKjPgWSAd/473856.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DAZN 1.it" tvg-name="IT: DAZN 1 Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/3840px-DAZN_Logo_Master.svg.png",IT: DAZN 1 Serie A
 http://titv.sytes.net:8080/live/inanenginTRTR/fJKjPgWSAd/473834.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DAZN LALIGA.es" tvg-name="IT: DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/960px-DAZN_LaLiga_logo.svg.png",DAZN LaLiga
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/406691.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DAZN LALIGA.es" tvg-name="IT: DAZN LaLiga²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/960px-DAZN_LaLiga_logo.svg.png",DAZN LaLiga²
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/406694.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DAZN LALIGA.es" tvg-name="IT: DAZN LaLiga³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/960px-DAZN_LaLiga_logo.svg.png",DAZN LaLiga³
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/406692.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DAZN LALIGA 2.es" tvg-name="IT: DAZN LaLiga 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/960px-DAZN_LaLiga_logo.svg.png",DAZN LaLiga 2
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/406696.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsWNyRoTA2T0Wv70FxxOmkvsDT8MBI3swT-Q&s" group-title="24H ANIME & DESENHO",Dragon Ball Z
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38015.ts
 #EXTINF:-1 tvg-id="" tvg-name="InuYasha" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQxYThmNGEtNzU2ZS00NjZmLWEzNTItMWM2NmU0ZTc5NjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="24H ANIME & DESENHO",InuYasha
