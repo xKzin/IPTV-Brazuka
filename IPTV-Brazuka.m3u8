@@ -877,14 +877,14 @@ http://ns2.titvshop.club:8080/live/zry7575/zry2606gg/53870.m3u8
 http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/110224.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FIFA%2B.svg/960px-FIFA%2B.svg.png",FIFA+
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",UK: Bloomberg TV Europe
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="BloombergTV.us@Europe" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",UK: Bloomberg TV Europe
 https://86ebec83.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/664c4e83-13c7-4898-ada9-80b89d4c2d2c/5.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBC-World-News.png",BBC News
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="BBC News HD.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBC-World-News.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="SkyNewsInternational.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Sky News HD.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="SkyNewsInternational.uk" tvg-name="Sky News²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News²
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Sky News HD.uk" tvg-name="Sky News²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News²
 https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="SkyNews.au" tvg-name="Sky News Australia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News Australia
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
@@ -908,9 +908,9 @@ http://titv.sytes.net:8080/live/inanenginTRTR/fJKjPgWSAd/22080.m3u8
 http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/444682.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Rai 3 HD.it" tvg-name="Rai 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rai_3_HD_Logo.svg/960px-Rai_3_HD_Logo.svg.png",Rai 3 HD
 http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/673.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Rai 4 HD.it" tvg-name="Rai 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rai_4_HD_Logo.svg/330px-Rai_4_HD_Logo.svg.png",Rai 4 HD
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Rai 4.it" tvg-name="Rai 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rai_4_HD_Logo.svg/330px-Rai_4_HD_Logo.svg.png",Rai 4 HD
 http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/30240.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Rai 5 HD.it" tvg-name="Rai 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rai_5_HD_Logo.svg/960px-Rai_5_HD_Logo.svg.png",Rai 5 HD
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Rai 5.it" tvg-name="Rai 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rai_5_HD_Logo.svg/960px-Rai_5_HD_Logo.svg.png",Rai 5 HD
 http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/444685.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Rai Sport HD.it" tvg-name="Rai Sport HD" tvg-logo="https://www.digital-news.it/files-admin/Immagini/Rai/1467723064-raisport-hd.png",Rai Sport HD
 http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/167758.m3u8
