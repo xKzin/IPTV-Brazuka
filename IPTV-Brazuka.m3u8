@@ -889,16 +889,22 @@ http://onlivex.pro/live/975127/wAgnmU/90692.m3u8
 #EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner Channel" tvg-logo="http://www.fontedecanais.tv/logos/canais/warnerchannel.png" group-title="INGLÊS",Warner Channel
 http://onlivex.pro/live/975127/wAgnmU/90649.m3u8
 #EXTINF:-1 group-title="INGLÊS" tvg-id="TNT Sports 1 HD.uk" tvg-name="TNT SPORTS 1" tvg-logo="https://www.fontedecanais.tv/logos/canais/tnt.png",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/90866.m3u8
 #EXTINF:-1 group-title="INGLÊS" tvg-id="TNT Sports 2 HD.uk" tvg-name="TNT SPORTS 2" tvg-logo="https://www.fontedecanais.tv/logos/canais/tnt.png",TNT SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/156674.m3u8
 #EXTINF:-1 group-title="INGLÊS" tvg-id="TNT Sports 3 HD.uk" tvg-name="TNT SPORTS 3" tvg-logo="https://www.fontedecanais.tv/logos/canais/tnt.png",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/133935.m3u8
 #EXTINF:-1 group-title="INGLÊS" tvg-id="Sky Sports FootballHD.uk" tvg-name="Sky Sports Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/960px-Sky_Sport_Football_-_Logo_2020.svg.png",Sky Sports Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://ns2.titvshop.club:8080/live/zry7575/zry2606gg/96553.m3u8
 #EXTINF:-1 group-title="INGLÊS" tvg-id="Sky Sports PL HD.uk" tvg-name="Sky Sports Premiere League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s",Sky Sports Premiere League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://ns2.titvshop.club:8080/live/zry7575/zry2606gg/58980.m3u8
 #EXTINF:-1 group-title="INGLÊS" tvg-id="Sky Sports Main Event.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://iili.io/HZjEC11.png",Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://ns2.titvshop.club:8080/live/zry7575/zry2606gg/53870.m3u8
 #EXTINF:-1 group-title="INGLÊS" tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",UK: FIFA+
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
@@ -907,6 +913,7 @@ https://86ebec83.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFr
 #EXTINF:-1 group-title="INGLÊS" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBC-World-News.png",UK: BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="INGLÊS" tvg-id="SkyNewsInternational.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",UK: Sky News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 group-title="INGLÊS" tvg-id="SkyNewsInternational.uk" tvg-name="Sky News²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",UK: Sky News²
 https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
