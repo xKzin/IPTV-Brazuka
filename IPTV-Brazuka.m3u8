@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-brasil.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-portugal.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-uk.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-brasil.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-portugal.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-uk.xml,https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/epg-italia2.xml"
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo FHD
 http://rotasvip.net/live/jacksonmaia/Jkm036277/72040.m3u8
 #EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="Globo São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo HD
@@ -226,7 +226,6 @@ http://onlivex.pro/live/563593/vGfUjy/90636.m3u8
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14022.ts
 #EXTINF:-1 tvg-id="HBO Xtreme HD.br" tvg-name="HBO Xtreme SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hboxtreme.png" group-title="HBO",HBO Xtreme SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14023.ts
- 
 #EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="Telecine Action FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action FHD
 http://onlivex.pro/live/563593/vGfUjy/90239.m3u8
 #EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecineaction.png" group-title="TELECINE",Telecine Action HD
@@ -263,7 +262,6 @@ http://onlivex.pro/live/563593/vGfUjy/103454.m3u8
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15016.ts
 #EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinetouch.png" group-title="TELECINE",Telecine Touch SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/15017.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="CINE SKY",Cine SKY 01
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16000.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="CINE SKY",Cine SKY 02
@@ -284,7 +282,6 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16007.ts
 http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/896436.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine SKY 10" tvg-logo="http://www.fontedecanais.tv/logos/canais/cinesky.png" group-title="CINE SKY",Cine SKY 10
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/16009.ts
-
 #EXTINF:-1 tvg-id="Band Sports.br" tvg-name="Band Sports FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandsports.png" group-title="ESPORTES",Band Sports FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19000.ts
 #EXTINF:-1 tvg-id="Band Sports.br" tvg-name="Band Sports HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandsports.png" group-title="ESPORTES",Band Sports HD
@@ -478,7 +475,6 @@ http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774728.m3u8
 http://kplay.red/live/1694433/8512155/899441.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI REALITY" tvg-name="TVI Reality Mosaico" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality Mosaico
 http://newoneblue.site/live/58257413/19193442/1774730.m3u8
- 
 #EXTINF:-1 tvg-id="ESPN HD.br" tvg-name="ESPN FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN FHD
 http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/231459.m3u8
 #EXTINF:-1 tvg-id="ESPN HD.br" tvg-name="ESPN HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN HD
@@ -515,7 +511,6 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22015.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22016.ts
 #EXTINF:-1 tvg-id="ESPN 6.br" tvg-name="ESPN 6 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn6.png" group-title="ESPN",ESPN 6 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22017.ts
-
 #EXTINF:-1 tvg-id="Premiere Clubes HD.br" tvg-name="Premiere Clubes FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",﻿Premiere Clubes FHD
 http://rotasvip.net/live/jacksonmaia/Jkm036277/72264.m3u8
 #EXTINF:-1 tvg-id="Premiere Clubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",﻿Premiere Clubes HD
@@ -572,7 +567,6 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20021.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20022.ts
 #EXTINF:-1 tvg-id="Premiere 8.br" tvg-name="Premiere 8 SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/premiere.png" group-title="PREMIERE",Premiere 8 SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/20023.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="MAX 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="MAX",MAX 01
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19033.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAX 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="MAX",MAX 02
@@ -587,7 +581,6 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19037.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19038.ts
 #EXTINF:-1 tvg-id="" tvg-name="MAX 07" tvg-logo="http://www.fontedecanais.tv/logos/canais/max.png" group-title="MAX",MAX 07
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19039.ts
-
 #EXTINF:-1 tvg-id="89" tvg-name="Paramount+ 1" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="PARAMOUNT+",Paramount+ 1
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19071.ts
 #EXTINF:-1 tvg-id="90" tvg-name="Paramount+ 2" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="PARAMOUNT+",Paramount+ 2
@@ -600,7 +593,6 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19074.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19075.ts
 #EXTINF:-1 tvg-id="" tvg-name="Paramount+ 6" tvg-logo="https://www.fontedecanais.org/logos/canais/paramountplus.png" group-title="PARAMOUNT+",Paramount+ 6
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19076.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 1" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png" group-title="DISNEY PLUS",Disney+ 1
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19041.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 2" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png" group-title="DISNEY PLUS",Disney+ 2
@@ -641,28 +633,6 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19058.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19059.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney+ 20" tvg-logo="http://www.fontedecanais.tv/logos/canais/disneyplus.png" group-title="DISNEY PLUS",Disney+ 20
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19060.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NBA 01" tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="NBA",NBA 01
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19086.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 02" tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="NBA",NBA 02
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19087.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 03" tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="NBA",NBA 03
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19088.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 04" tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="NBA",NBA 04
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19089.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 05" tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="NBA",NBA 05
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19090.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 06" tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="NBA",NBA 06
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19091.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 07" tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="NBA",NBA 07
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19092.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 08" tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="NBA",NBA 08
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19093.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 09" tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="NBA",NBA 09
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19094.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBA 10" tvg-logo="http://www.fontedecanais.tv/logos/canais/nba.png" group-title="NBA",NBA 10
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/19095.ts
-
 #EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="Animal Planet FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png" group-title="ENTRETENIMENTO",Animal Planet FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/23000.ts
 #EXTINF:-1 tvg-id="Animal Planet HD.br" tvg-name="Animal Planet HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/animalplanet.png" group-title="ENTRETENIMENTO",Animal Planet HD
@@ -777,7 +747,6 @@ http://onlivex.pro/live/975127/wAgnmU/103488.m3u8
 http://onlivex.pro/live/975127/wAgnmU/103465.m3u8
 #EXTINF:-1 tvg-id="WooHoo HD.br" tvg-name="WooHoo" tvg-logo="https://www.fontedecanais.tv/logos/canais/woohoo.png" group-title="ENTRETENIMENTO",WooHoo
 http://onlivex.pro/live/975127/wAgnmU/103449.m3u8
-
 #EXTINF:-1 tvg-id="Box Kids.br" tvg-name="Box Kids FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/boxkids.png" group-title="DESENHOS",Box Kids FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24000.ts
 #EXTINF:-1 tvg-id="Box Kids.br" tvg-name="Box Kids HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/boxkids.png" group-title="DESENHOS",Box Kids HD
@@ -832,7 +801,6 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24039.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24040.ts
 #EXTINF:-1 tvg-id="TV Rá Tim Bum! HD.br" tvg-name="TV Rá Tim Bum SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/tvratimbum.png" group-title="DESENHOS",TV Rá Tim Bum SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/24041.ts
-
 #EXTINF:-1 tvg-id="Bandnews" tvg-name="BAND NEWS.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandnews.png" group-title="NOTÍCIAS",Band News FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25000.ts
 #EXTINF:-1 tvg-id="Bandnews" tvg-name="BAND NEWS.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/bandnews.png" group-title="NOTÍCIAS",Band News HD
@@ -875,7 +843,6 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25021.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25022.ts
 #EXTINF:-1 tvg-id="SBT News.br" tvg-name="SBT News SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="NOTÍCIAS",SBT News SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/25023.ts
-
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN" tvg-logo="http://www.fontedecanais.tv/logos/canais/axn.png" group-title="INGLÊS",AXN
 http://onlivex.pro/live/975127/wAgnmU/90716.m3u8
 #EXTINF:-1 tvg-id="Sony HD" tvg-name="Sony Channel" tvg-logo="http://www.fontedecanais.tv/logos/canais/sonychannel.png" group-title="INGLÊS",Sony Channel
@@ -888,136 +855,138 @@ http://onlivex.pro/live/975127/wAgnmU/90695.m3u8
 http://onlivex.pro/live/975127/wAgnmU/90692.m3u8
 #EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner Channel" tvg-logo="http://www.fontedecanais.tv/logos/canais/warnerchannel.png" group-title="INGLÊS",Warner Channel
 http://onlivex.pro/live/975127/wAgnmU/90649.m3u8
-#EXTINF:-1 group-title="INGLÊS" tvg-id="TNT Sports 1 HD.uk" tvg-name="TNT SPORTS 1" tvg-logo="https://www.fontedecanais.tv/logos/canais/tnt.png",TNT SPORTS 1
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="TNT Sports 1 HD.uk" tvg-name="TNT SPORTS 1" tvg-logo="https://www.fontedecanais.tv/logos/canais/tnt.png",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/90866.m3u8
-#EXTINF:-1 group-title="INGLÊS" tvg-id="TNT Sports 2 HD.uk" tvg-name="TNT SPORTS 2" tvg-logo="https://www.fontedecanais.tv/logos/canais/tnt.png",TNT SPORTS 2
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="TNT Sports 2 HD.uk" tvg-name="TNT SPORTS 2" tvg-logo="https://www.fontedecanais.tv/logos/canais/tnt.png",TNT SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/156674.m3u8
-#EXTINF:-1 group-title="INGLÊS" tvg-id="TNT Sports 3 HD.uk" tvg-name="TNT SPORTS 3" tvg-logo="https://www.fontedecanais.tv/logos/canais/tnt.png",TNT SPORTS 3
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="TNT Sports 3 HD.uk" tvg-name="TNT SPORTS 3" tvg-logo="https://www.fontedecanais.tv/logos/canais/tnt.png",TNT SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/133935.m3u8
-#EXTINF:-1 group-title="INGLÊS" tvg-id="Sky Sports FootballHD.uk" tvg-name="Sky Sports Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/960px-Sky_Sport_Football_-_Logo_2020.svg.png",Sky Sports Football
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Sky Sports FootballHD.uk" tvg-name="Sky Sports Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/960px-Sky_Sport_Football_-_Logo_2020.svg.png",Sky Sports Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://ns2.titvshop.club:8080/live/zry7575/zry2606gg/96553.m3u8
-#EXTINF:-1 group-title="INGLÊS" tvg-id="Sky Sports PL HD.uk" tvg-name="Sky Sports Premiere League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s",Sky Sports Premiere League
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Sky Sports PL HD.uk" tvg-name="Sky Sports Premiere League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXw53gnUV1zL1tDoAFLmfHNOtpMBx7goFFg&s",Sky Sports Premiere League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://ns2.titvshop.club:8080/live/zry7575/zry2606gg/58980.m3u8
-#EXTINF:-1 group-title="INGLÊS" tvg-id="Sky Sports Main Event.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://iili.io/HZjEC11.png",Sky Sports Main Event
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Sky Sports Main Event.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://iili.io/HZjEC11.png",Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://ns2.titvshop.club:8080/live/zry7575/zry2606gg/53870.m3u8
-#EXTINF:-1 group-title="INGLÊS" tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",UK: FIFA+
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Sky Sports F1 HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sports_F1_-_Logo_2025.svg/960px-Sky_Sports_F1_-_Logo_2025.svg.png",Sky Sports F1
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/110224.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="FIFAPlus.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FIFA%2B.svg/960px-FIFA%2B.svg.png",FIFA+
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="INGLÊS" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",UK: Bloomberg TV Europe
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",UK: Bloomberg TV Europe
 https://86ebec83.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/664c4e83-13c7-4898-ada9-80b89d4c2d2c/5.m3u8
-#EXTINF:-1 group-title="INGLÊS" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBC-World-News.png",UK: BBC News
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBC-World-News.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="INGLÊS" tvg-id="SkyNewsInternational.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",UK: Sky News
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="SkyNewsInternational.uk" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 group-title="INGLÊS" tvg-id="SkyNewsInternational.uk" tvg-name="Sky News²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",UK: Sky News²
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="SkyNewsInternational.uk" tvg-name="Sky News²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News²
 https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
-#EXTINF:-1 group-title="INGLÊS" tvg-id="SkyNews.au" tvg-name="Sky News Australia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",AU: Sky News Australia
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="SkyNews.au" tvg-name="Sky News Australia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News Australia
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
-
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="" tvg-name="Sky Sports Bundesliga" tvg-logo="https://images.ctfassets.net/nn6vbw09vzdt/59R5GTbWscANvlukCjiwos/43a0ddde9c084483bfa44f8c7dcdd036/Sky_Sport_Bundesliga.png",Sky Sports Bundesliga
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/406840.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="" tvg-name="Sky Sports LaLiga" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg",Sky Sports LaLiga
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/406837.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Sky Sport 24.it" tvg-name="Sky Sports 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sky_Sport_24_-_Logo_2026.svg/960px-Sky_Sport_24_-_Logo_2026.svg.png",Sky Sports 24
+http://titv.sytes.net:8080/live/inanenginTRTR/fJKjPgWSAd/114713.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Sky Sport 24.it" tvg-name="Sky Sports 24²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sky_Sport_24_-_Logo_2026.svg/960px-Sky_Sport_24_-_Logo_2026.svg.png",Sky Sports 24²
+http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/129601.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Sky Sport Calcio.it" tvg-name="Sky Sports Calcio" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/70ud6o1656963115.png",Sky Sports Calcio
+http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/147684.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="" tvg-name="LaLiga TV por M+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png",LaLiga TV por M+
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/406838.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="" tvg-name="Liga de Los Campeones M+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/960px-Movistar_Liga_de_Campeones.svg.png",Liga de Los Campeones M+
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/376384.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Rai 1 HD.it" tvg-name="Rai 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rai_1_HD_Logo.svg/960px-Rai_1_HD_Logo.svg.png",Rai 1 HD
+http://titv.sytes.net:8080/live/inanenginTRTR/fJKjPgWSAd/22080.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Rai 2 HD.it" tvg-name="Rai 2 HD" tvg-logo="https://iconape.com/wp-content/files/yy/280931/svg/280931.svg",Rai 2 HD
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/444682.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Rai 3 HD.it" tvg-name="Rai 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rai_3_HD_Logo.svg/960px-Rai_3_HD_Logo.svg.png",Rai 3 HD
+http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/673.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Rai 4 HD.it" tvg-name="Rai 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rai_4_HD_Logo.svg/330px-Rai_4_HD_Logo.svg.png",Rai 4 HD
+http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/30240.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Rai 5 HD.it" tvg-name="Rai 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rai_5_HD_Logo.svg/960px-Rai_5_HD_Logo.svg.png",Rai 5 HD
+http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/444685.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="Rai Sport HD.it" tvg-name="Rai Sport HD" tvg-logo="https://www.digital-news.it/files-admin/Immagini/Rai/1467723064-raisport-hd.png",Rai Sport HD
+http://ns2.titvshop.club:8080/live/zzgg1010/zzgg0202yy00/167758.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DAZN 1.it" tvg-name="IT: DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/3840px-DAZN_Logo_Master.svg.png",IT: DAZN 1
+http://titv.sytes.net:8080/live/inanenginTRTR/fJKjPgWSAd/473854.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DAZN 2.it" tvg-name="IT: DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/3840px-DAZN_Logo_Master.svg.png",IT: DAZN 2
+http://titv.sytes.net:8080/live/inanenginTRTR/fJKjPgWSAd/473855.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DAZN 3.it" tvg-name="IT: DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/3840px-DAZN_Logo_Master.svg.png",IT: DAZN 3
+http://titv.sytes.net:8080/live/inanenginTRTR/fJKjPgWSAd/473856.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL" tvg-id="DAZN 1.it" tvg-name="IT: DAZN 1 Serie A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/3840px-DAZN_Logo_Master.svg.png",IT: DAZN 1 Serie A
+http://titv.sytes.net:8080/live/inanenginTRTR/fJKjPgWSAd/473834.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsWNyRoTA2T0Wv70FxxOmkvsDT8MBI3swT-Q&s" group-title="24H ANIME & DESENHO",Dragon Ball Z
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38015.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="InuYasha" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjQxYThmNGEtNzU2ZS00NjZmLWEzNTItMWM2NmU0ZTc5NjY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="24H ANIME & DESENHO",InuYasha
 http://newoneblue.site/live/58257413/19193442/1619345.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJmODlhODItZTZmYi00ZGNjLTk1NmYtMjE5M2IwYjI2MzI2XkEyXkFqcGc@._V1_.jpg" group-title="24H ANIME & DESENHO",Yu Yu Hakusho
 http://newoneblue.site/live/58257413/19193442/1619375.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="Hunter x Hunter" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDBiMzMyMWItNDFkYy00MjBmLTk2ZDAtYmE2N2U4YzFlZDRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="24H ANIME & DESENHO",Hunter x Hunter
 http://newoneblue.site/live/58257413/19193442/1619347.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="Fullmetal Alchemist Brotherhood" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNiODA5NjYtYWExZS00OTc4LTg3N2ItYWYwYTUyYmM5MWViXkEyXkFqcGc@._V1_.jpg" group-title="24H ANIME & DESENHO",Fullmetal Alchemist Brotherhood
 http://newoneblue.site/live/58257413/19193442/1619352.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="https://www.geekygallery.in/cdn/shop/files/naruto_6.jpg" group-title="24H ANIME & DESENHO",Naruto
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38006.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden" tvg-logo="https://m.media-amazon.com/images/I/81Zj-BWityL._AC_UF894,1000_QL80_.jpg" group-title="24H ANIME & DESENHO",Naruto Shippuden
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38007.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Digimon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/Digimon_Digital_Monsters_Season_1_DVD_Cover.png" group-title="24H ANIME & DESENHO",Digimon
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38016.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure" tvg-logo="https://i.scdn.co/image/ab67616d0000b27368fbfaa71d9306560166777f" group-title="24H ANIME & DESENHO",Digimon Adventure
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38016.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="BoJack Horseman" tvg-logo="https://resizing.flixster.com/UDU4pZwNBSpIm5PRN6hOFf0hToA=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvUlRUVjM0MzEzMy53ZWJw" group-title="24H ANIME & DESENHO",BoJack Horseman
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38021.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="https://www.europanet.com.br/upload/id_produto/45_____/4501006g.jpg" group-title="24H ANIME & DESENHO",Futurama
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38023.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Apenas um Show" tvg-logo="https://cinema10.com.br/upload/featuredImage.php?url=https%3A%2F%2Fcinema10.com.br%2Fupload%2Fseries%2Fseries_742_PSHOW.jpg" group-title="24H ANIME & DESENHO",Apenas um Show
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38020.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Boku no Hero Academia" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QzODA5OTQtYWJlNi00ZjIzLThhNTItMDMwODhlYzYzMjA2XkEyXkFqcGc@._V1_.jpg" group-title="24H ANIME & DESENHO",Boku no Hero Academia
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38019.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBlMzA3ZTUtODZjNi00NTM0LWExMjMtNjJhYzA3YTkwMWYwXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="24H ANIME & DESENHO",South Park
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38010.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Os Simpsons" tvg-logo="https://i.pinimg.com/736x/7f/e9/5f/7fe95ff8fb1ae2c424eb38c5ebbabcc9.jpg" group-title="24H ANIME & DESENHO",Os Simpsons
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38000.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Steven Universo" tvg-logo="https://m.media-amazon.com/images/I/51Iuv+hsGWL._AC_UF894,1000_QL80_.jpg" group-title="24H ANIME & DESENHO",Steven Universo
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38011.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Lancamentos" tvg-logo="https://img.pikbest.com/backgrounds/20190419/cinema-poster-background-image_1817055.jpg!w700wp" group-title="24H FILMES",Filmes Lancamentos
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38034.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Suspense" tvg-logo="https://img.pikbest.com/backgrounds/20190419/cinema-poster-background-image_1817055.jpg!w700wp" group-title="24H FILMES",Filmes Suspense
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38033.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Terror" tvg-logo="https://img.pikbest.com/backgrounds/20190419/cinema-poster-background-image_1817055.jpg!w700wp" group-title="24H FILMES",Filmes Terror
 http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/1242354.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Romance" tvg-logo="https://img.pikbest.com/backgrounds/20190419/cinema-poster-background-image_1817055.jpg!w700wp" group-title="24H FILMES",Filmes Romance
 http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/1242335.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Romance²" tvg-logo="https://img.pikbest.com/backgrounds/20190419/cinema-poster-background-image_1817055.jpg!w700wp" group-title="24H FILMES",Filmes Romance²
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38032.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Drama" tvg-logo="https://img.pikbest.com/backgrounds/20190419/cinema-poster-background-image_1817055.jpg!w700wp" group-title="24H FILMES",Filmes Drama
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38031.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Comédia" tvg-logo="https://img.pikbest.com/backgrounds/20190419/cinema-poster-background-image_1817055.jpg!w700wp" group-title="24H FILMES",Filmes Comédia
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38030.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Ação" tvg-logo="https://img.pikbest.com/backgrounds/20190419/cinema-poster-background-image_1817055.jpg!w700wp" group-title="24H FILMES",Filmes Ação
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38028.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Animação Infantil" tvg-logo="https://img.pikbest.com/backgrounds/20190419/cinema-poster-background-image_1817055.jpg!w700wp" group-title="24H FILMES",Filmes Animação Infantil
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38029.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="Chaves" tvg-logo="https://image.tmdb.org/t/p/original/x20x722AAuZokkCVZvFqbWdFg3j.jpg" group-title="24H SÉRIES",Chaves
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38001.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Chapolin Colorado" tvg-logo="https://static.wikia.nocookie.net/dublagempedia/images/b/b8/Las_aventuras_del_chapolin_la_pel%C3%ADcula.jpg/revision/latest?cb=20230425190719&path-prefix=pt-br" group-title="24H SÉRIES",Chapolin Colorado
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38002.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Eu, a Patroa e as Crianças" tvg-logo="https://image.tmdb.org/t/p/w500/huMehRjXBkFkO9BWPly1635y0J0.jpg" group-title="24H SÉRIES",Eu, a Patroa e as Crianças
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38003.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio" tvg-logo="https://image.tmdb.org/t/p/original/dPCv0RaOj2pRxZcUDOoqXFe7Pqn.jpg" group-title="24H SÉRIES",Dois Homens e Meio
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38004.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço" tvg-logo="https://media.fstatic.com/33clcRfw2m0KCgWFF1NfwvOvSDc=/322x478/smart/filters:format(webp)/media/movies/covers/2011/10/c8499caf2a4a5e2d3508bc81254c07bf.jpg" group-title="24H SÉRIES",Um Maluco no Pedaço
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38008.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Big Bang: A Teoria" tvg-logo="https://cdng.europosters.eu/pod_public/1300/106240.jpg" group-title="24H SÉRIES",Big Bang: A Teoria
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38018.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="As Visões da Raven" tvg-logo="https://image.tmdb.org/t/p/original/su0OdwKQzpQ2w2DygO3yKvrDUAk.jpg" group-title="24H SÉRIES",As Visões da Raven
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38027.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Aeroporto Area Restrita" tvg-logo="https://images.justwatch.com/poster/309816836/s718/temporada-5.jpg" group-title="24H SÉRIES",Aeroporto Area Restrita
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38026.ts
- 
 #EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RlMjdmZDMtNDM5MC00YWNkLTlhZWMtMDFhM2FmNjEwMTViXkEyXkFqcGc@._V1_.jpg" group-title="24H SÉRIES",Largados e Pelados
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/38013.ts
