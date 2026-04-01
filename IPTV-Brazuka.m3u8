@@ -177,7 +177,6 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13057.ts
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13058.ts
 #EXTINF:-1 tvg-id="Film and Arts HD.br" tvg-name="Film & Arts SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="FILMES E SÉRIES",Film & Arts SD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13059.ts
- 
 #EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="HBO",HBO FHD
 http://onlivex.pro/live/563593/vGfUjy/90247.m3u8
 #EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="HBO",HBO HD
@@ -187,9 +186,9 @@ http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/111737.m3u8
 #EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="HBO",HBO
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14002.ts
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png" group-title="HBO",HBO 2 FHD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14003.ts
+http://onlivex.pro/live/563593/vGfUjy/90246.m3u8
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png" group-title="HBO",HBO 2 HD
-http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14004.ts
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/14003.ts
 #EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo2.png" group-title="HBO",HBO 2
 http://mundo2.vip/live/ALciDNj5196/hczsc8gJxkhd/111736.m3u8
 #EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbofamily.png" group-title="HBO",HBO Family FHD
