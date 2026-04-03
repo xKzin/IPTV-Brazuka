@@ -452,7 +452,6 @@ https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVIFiccao.pt@SD" tvg-name="TVI Ficção²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção²
 http://newoneblue.site/live/58257413/19193442/1774724.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI HD.pt" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://proxpanel.pro/live/Lana15/tjLUeQxVL4LE/728067.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI HD.pt" tvg-name="TVI²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI²
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
