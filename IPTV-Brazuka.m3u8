@@ -428,14 +428,14 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP 1 HD.pt" tvg-name="RTP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/RTP1.png",RTP 1
 http://newoneblue.site/live/58257413/19193442/1774700.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP 1 HD.pt" tvg-name="RTP 1²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/RTP1.png",RTP 1²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP 2 HD.pt" tvg-name="RTP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Futuro_log%C3%B3tipo_-_RTP2.jpg",RTP 2
 http://newoneblue.site/live/58257413/19193442/1774702.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="RTP 2 HD.pt" tvg-name="RTP 2²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Futuro_log%C3%B3tipo_-_RTP2.jpg",RTP 2²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTVLCOPT:http-origin=https://www.rtp.pt
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp2
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
@@ -459,7 +459,7 @@ http://proxpanel.pro/live/Lana15/tjLUeQxVL4LE/728067.m3u8
 http://cdn.shytsky.top/live/78189814/93059224/2549669.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI HD.pt" tvg-name="TVI³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI³
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
-http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774722.m3u8
+http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774722.m3u8 https://d36mxwpltmym4d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI Reality HD.pt" tvg-name="TVI Reality HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality HD
 http://lphas.click/live/4199922241/awsedc1485/27505720.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI Reality HD.pt" tvg-name="TVI Reality HD²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality HD²
