@@ -477,11 +477,11 @@ http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774728.m3u8
 http://kplay.red/live/1694433/8512155/899441.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI REALITY" tvg-name="TVI Reality Mosaico" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality Mosaico
 http://newoneblue.site/live/58257413/19193442/1774730.m3u8
-#EXTINF:-1 tvg-id="ESPN HD.br" tvg-name="ESPN FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN FHD
+#EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="ESPN FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN FHD
 http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/231459.m3u8
-#EXTINF:-1 tvg-id="ESPN HD.br" tvg-name="ESPN HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN HD
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22001.ts
-#EXTINF:-1 tvg-id="ESPN HD.br" tvg-name="ESPN" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn.png" group-title="ESPN",ESPN
 http://onlivex.pro/live/975127/wAgnmU/71911.m3u8
 #EXTINF:-1 tvg-id="ESPN 2.br" tvg-name="ESPN 2 FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/espn2.png" group-title="ESPN",ESPN 2 FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/22003.ts
