@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/portugal2.xml,https://www.open-epg.com/files/unitedkingdom4.xml,https://www.open-epg.com/files/italy3.xml,https://www.open-epg.com/files/spain5.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/portugal1.xml,https://www.open-epg.com/files/portugal2.xml,https://www.open-epg.com/files/unitedkingdom4.xml,https://www.open-epg.com/files/unitedkingdom5.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/italy3.xml,https://www.open-epg.com/files/spain5.xml"
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo FHD
 http://rotasvip.net/live/jacksonmaia/Jkm036277/72040.m3u8
 #EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="Globo São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo HD
