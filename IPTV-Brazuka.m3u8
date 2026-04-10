@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/portugal1.xml,https://www.open-epg.com/files/portugal2.xml,https://www.open-epg.com/files/unitedkingdom4.xml,https://www.open-epg.com/files/unitedkingdom5.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/italy3.xml,https://www.open-epg.com/files/spain5.xml"
 #EXTINF:-1 tvg-id="Globo HD.br" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo FHD
-http://rotasvip.net/live/jacksonmaia/Jkm036277/72040.m3u8
+http://38.100.203.94/live/gleyktest1/8555474144/784469.m3u8
 #EXTINF:-1 tvg-id="Globo Sao Paulo HD.br" tvg-name="Globo São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo HD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18025.ts
 #EXTINF:-1 tvg-id="Globo SP.br" tvg-name="Globo São Paulo" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="CANAIS ABERTOS",Globo São Paulo
@@ -62,11 +62,11 @@ http://sinalmycn.com:80/live/632035/GqGcFV4ntu/17006.ts
 #EXTINF:-1 tvg-id="Globoplay Novelas.br" tvg-name="GLOBOPLAY NOVELAS FHD" tvg-logo="https://www.fontedecanais.tv/logos/canais/globoplaynovelas.png" group-title="FILMES E SÉRIES",GLOBOPLAY NOVELAS FHD
 http://onlivex.pro/live/975127/wAgnmU/103450.m3u8
 #EXTINF:-1 tvg-id="Globoplay Novelas.br" tvg-name="GLOBOPLAY NOVELAS HD" tvg-logo="https://www.fontedecanais.tv/logos/canais/globoplaynovelas.png" group-title="FILMES E SÉRIES",GLOBOPLAY NOVELAS HD
-http://rotasvip.net/live/jacksonmaia/Jkm036277/103450.m3u8
+http://onlivex.pro/live/975127/wAgnmU/72427.m3u8
 #EXTINF:-1 tvg-id="Globoplay Novelas.br" tvg-name="GLOBOPLAY NOVELAS SD" tvg-logo="https://www.fontedecanais.tv/logos/canais/globoplaynovelas.png" group-title="FILMES E SÉRIES",GLOBOPLAY NOVELAS SD
-http://rotasvip.net/live/jacksonmaia/Jkm036277/72429.m3u8
+http://onlivex.pro/live/975127/wAgnmU/72429.m3u8
 #EXTINF:-1 tvg-id="Globoplay Novelas" tvg-name="GLOBOPLAY NOVELAS H265" tvg-logo="https://www.fontedecanais.tv/logos/canais/globoplaynovelas.png" group-title="FILMES E SÉRIES",GLOBOPLAY NOVELAS H265
-http://rotasvip.net/live/jacksonmaia/Jkm036277/72428.m3u8
+http://onlivex.pro/live/975127/wAgnmU/72428.m3u8
 #EXTINF:-1 tvg-id="AMC HD.br" tvg-name="AMC FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/amc.png" group-title="FILMES E SÉRIES",AMC FHD
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/13000.ts
 #EXTINF:-1 tvg-id="AMC HD.br" tvg-name="AMC HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/amc.png" group-title="FILMES E SÉRIES",AMC HD
