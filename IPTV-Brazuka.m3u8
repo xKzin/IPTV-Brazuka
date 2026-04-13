@@ -441,6 +441,9 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 http://site.poupadefrutas.shop/live/q2Y7tqVAUv/dnuavyuZV5/1479.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="PROTVInternational.ro@SD" tvg-name="TVI international" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI international
 https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI_Internacional.m3u
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="PROTVInternational.ro@SD" tvg-name="TVI international" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI Internacional²
+#EXT-X-STREAM-INF:BANDWIDTH=2225412,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
+https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI2IDY6MzY6NDUgQU0maGFzaF92YWx1ZT1McFJRalJzbW1WZDRmSkVmOFVzV3Z3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGNiNjBhOTgtMzczNS00MGVjLTlmZjEtNzNhY2UyMmVkNzQ2
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="V+TVI.pt" tvg-name="V+ TVI" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI
 http://newoneblue.site/live/58257413/19193442/1774731.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="V+TVI.pt" tvg-name="V+ TVI²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI²
