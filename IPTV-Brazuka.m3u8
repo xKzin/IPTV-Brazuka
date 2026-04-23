@@ -461,7 +461,9 @@ http://cdn.shytsky.top/live/78189814/93059224/2549669.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://newoneblue.site/live/CalangoDoido2/CalangoDoido2/1774722.m3u8 https://d36mxwpltmym4d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI Reality HD.pt" tvg-name="TVI Reality HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality HD
-http://lphas.click/live/4199922241/awsedc1485/27505720.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1414170,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=716521040&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDI2IDEwOjI5OjYgQU0maGFzaF92YWx1ZT1wdkU5REcxQngvMGlXSnBNd3VKN2xRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2I5YTVjMTItNGY3Yy00MDU3LTk3YjItMmZjMDdmYjVlMWZj
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI Reality HD.pt" tvg-name="TVI Reality HD²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality HD²
 http://cdn.shytsky.top/live/78189814/93059224/2549671.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI Reality HD.pt" tvg-name="TVI Reality" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
