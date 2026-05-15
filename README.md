@@ -4,9 +4,11 @@
 
 #CANAIS BRASILEIROS E ALGUNS DE PORTUGAL!
 
-#SEGUE O LINK DA LISTA
+#SEGUE O LINK DA MINHA LISTA
+╰─➤https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka.m3u8
 
-| https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka.m3u8
+#LISTA INTERNACIONAL POR LITUATUI
+╰─➤https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/M3UPT.m3u
 
 #RECOMENDAÇÃO DE APLICATIVOS QUE COSTUMO USAR NO COMPUTADOR E NO IPHONE
 
