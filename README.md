@@ -8,7 +8,8 @@
 ╰─➤https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka.m3u8
 
 #LISTA INTERNACIONAL POR LITUATUI
-╰─➤https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/M3UPT.m3u
+╰─➤M3U: https://m3upt.com/iptv
+    EPG: https://m3upt.com/epg
 
 #RECOMENDAÇÃO DE APLICATIVOS QUE COSTUMO USAR NO COMPUTADOR E NO IPHONE
 
