@@ -7,7 +7,7 @@
 #SEGUE O LINK DA MINHA LISTA                   
 ╰─➤https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka.m3u8
 
-#LISTA INTERNACIONAL POR LITUATUI
+#LISTA INTERNACIONAL POR LITUATUI                                      
 ╰─➤M3U: https://m3upt.com/iptv
     EPG: https://m3upt.com/epg
 
