@@ -9,7 +9,7 @@
 
 #LISTA INTERNACIONAL POR LITUATUI                                      
 ╰─➤M3U: https://m3upt.com/iptv                                 
-          EPG: https://m3upt.com/epg
+╰─➤EPG: https://m3upt.com/epg
 
 #RECOMENDAÇÃO DE APLICATIVOS QUE COSTUMO USAR NO COMPUTADOR E NO IPHONE
 
