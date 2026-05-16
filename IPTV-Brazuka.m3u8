@@ -344,6 +344,12 @@ http://1.oneapps.live/live/Rosalinapina/State3/1489.m3u8
 http://1.oneapps.live/live/Rosalinapina/State3/51992.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI FICCAO" tvg-name="TVI Ficção" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
 https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI HD.pt" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI
+http://1.oneapps.live/live/Rosalinapina/State3/1483.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI HD.pt" tvg-name="TVI²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI²
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+http://1.oneapps.live/live/Rosalinapina/State3/1484.m3u8
+#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI HD.pt" tvg-name="TVI³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI³
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1972967,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
 https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI2IDQ6NDQ6OCBQTSZoYXNoX3ZhbHVlPUJ5MGNobzVTTWkwUUJhdndLVC9aMUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04NGYwMGU1MC0xMWMwLTQxZGItOGNmNi03YmZjMDNmNGQyOWQ=
@@ -353,11 +359,6 @@ https://video-auth6.iol.pt/edge_servers/tvi-480p/chunks.m3u8?wmsAuthSign=c2VydmV
 https://video-auth6.iol.pt/edge_servers/tvi-360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI2IDQ6NDQ6OCBQTSZoYXNoX3ZhbHVlPUJ5MGNobzVTTWkwUUJhdndLVC9aMUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04NGYwMGU1MC0xMWMwLTQxZGItOGNmNi03YmZjMDNmNGQyOWQ=
 #EXT-X-STREAM-INF:BANDWIDTH=345862,RESOLUTION=426x240,CODECS="avc1.42c015,mp4a.40.2"
 https://video-auth6.iol.pt/edge_servers/tvi-240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI2IDQ6NDQ6OCBQTSZoYXNoX3ZhbHVlPUJ5MGNobzVTTWkwUUJhdndLVC9aMUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04NGYwMGU1MC0xMWMwLTQxZGItOGNmNi03YmZjMDNmNGQyOWQ=
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI HD.pt" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI
-http://1.oneapps.live/live/Rosalinapina/State3/1483.m3u8
-#EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI HD.pt" tvg-name="TVI²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI²
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
-http://1.oneapps.live/live/Rosalinapina/State3/1484.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI Reality HD.pt" tvg-name="TVI Reality" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 https://kplay.red/live/1694433/8512155/899443.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI Reality HD.pt" tvg-name="TVI Reality²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality²
