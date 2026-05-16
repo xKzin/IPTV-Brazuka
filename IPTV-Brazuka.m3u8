@@ -350,14 +350,7 @@ http://1.oneapps.live/live/Rosalinapina/State3/1483.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 http://1.oneapps.live/live/Rosalinapina/State3/1484.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI HD.pt" tvg-name="TVI³" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/PIXL_20211228_160221_5.png",TVI³
-#EXT-X-STREAM-INF:BANDWIDTH=1972967,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
 https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI2IDQ6NDQ6OCBQTSZoYXNoX3ZhbHVlPUJ5MGNobzVTTWkwUUJhdndLVC9aMUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04NGYwMGU1MC0xMWMwLTQxZGItOGNmNi03YmZjMDNmNGQyOWQ=
-#EXT-X-STREAM-INF:BANDWIDTH=845169,RESOLUTION=854x480,CODECS="avc1.66.30,mp4a.40.2"
-https://video-auth6.iol.pt/edge_servers/tvi-480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI2IDQ6NDQ6OCBQTSZoYXNoX3ZhbHVlPUJ5MGNobzVTTWkwUUJhdndLVC9aMUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04NGYwMGU1MC0xMWMwLTQxZGItOGNmNi03YmZjMDNmNGQyOWQ=
-#EXT-X-STREAM-INF:BANDWIDTH=565523,RESOLUTION=640x360,CODECS="avc1.66.30,mp4a.40.2"
-https://video-auth6.iol.pt/edge_servers/tvi-360p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI2IDQ6NDQ6OCBQTSZoYXNoX3ZhbHVlPUJ5MGNobzVTTWkwUUJhdndLVC9aMUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04NGYwMGU1MC0xMWMwLTQxZGItOGNmNi03YmZjMDNmNGQyOWQ=
-#EXT-X-STREAM-INF:BANDWIDTH=345862,RESOLUTION=426x240,CODECS="avc1.42c015,mp4a.40.2"
-https://video-auth6.iol.pt/edge_servers/tvi-240p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDI2IDQ6NDQ6OCBQTSZoYXNoX3ZhbHVlPUJ5MGNobzVTTWkwUUJhdndLVC9aMUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04NGYwMGU1MC0xMWMwLTQxZGItOGNmNi03YmZjMDNmNGQyOWQ=
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI Reality HD.pt" tvg-name="TVI Reality" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
 https://kplay.red/live/1694433/8512155/899443.m3u8
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="TVI Reality HD.pt" tvg-name="TVI Reality²" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality²
