@@ -4,7 +4,7 @@
 
 #CANAIS BRASILEIROS E ALGUNS DE PORTUGAL!
 
-#USAR O CLOUDFLARE WARP NO SEU SMARTPHONE PODE AJUDAR EM ALGUNS CASOS DE PROBLEMA DE CONEXÃO                                                           
+#CLOUDFLARE WARP NO SEU SMARTPHONE PODE AJUDAR EM ALGUNS CASOS DE PROBLEMA DE CONEXÃO                                                           
 ╰─➤IPHONE: https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627                                                                 
 ╰─➤ANDROID: https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&pcampaignid
 
