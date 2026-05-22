@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/portugal1.xml,https://www.open-epg.com/files/portugal2.xml,https://www.open-epg.com/files/unitedkingdom4.xml,https://www.open-epg.com/files/unitedkingdom5.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/italy3.xml,https://www.open-epg.com/files/spain5.xml"
 #EXTINF:-1 tvg-id="" tvg-name="MR. Olympia" tvg-logo="https://i.postimg.cc/qMm60m17/logo-footer-1.png" group-title="ESPORTES PPV",MR. Olympia
 http://1.oneapps.live:80/Rosalinapina/State3/971879
 #EXTINF:-1 tvg-id="" tvg-name="CazeTV 01" tvg-logo="https://logodownload.org/wp-content/uploads/2024/03/cazetv-logo-0.png" group-title="ESPORTES PPV",CazeTV 01
