@@ -8,8 +8,11 @@
 ╰─➤IPHONE: https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627                                                                 
 ╰─➤ANDROID: https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&pcampaignid
 
-#SEGUE O LINK DA MINHA LISTA                   
-╰─➤https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka.m3u
+#SEGUE O LINK DAS LISTAS                   
+╰─➤https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka.m3u                                                 
+╰─➤https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka2.m3u                                                                     
+╰─➤https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka3.m3u
+
 
 #LISTA INTERNACIONAL POR LITUATUI                                      
 ╰─➤M3U: https://m3upt.com/iptv                                 
