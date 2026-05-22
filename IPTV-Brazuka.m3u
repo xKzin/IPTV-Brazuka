@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/brazil3.xml,https://www.open-epg.com/files/portugal1.xml,https://www.open-epg.com/files/portugal2.xml,https://www.open-epg.com/files/unitedkingdom4.xml,https://www.open-epg.com/files/unitedkingdom5.xml,https://www.open-epg.com/files/italy1.xml,https://www.open-epg.com/files/italy3.xml,https://www.open-epg.com/files/spain5.xml"
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-name="A&E 4K" tvg-logo="http://onlivex.pro/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E 4K
 http://onlivex.pro:80/563593/vGfUjy/90647.ts
