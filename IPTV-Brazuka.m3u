@@ -976,7 +976,7 @@ http://onlivex.pro:80/563593/vGfUjy/90697.ts
 http://onlivex.pro:80/563593/vGfUjy/72133.ts
 #EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | Legendados",HBO SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90696.ts
-#EXTINF:-1 tvg-id="HBO 2 HD.br" tvg-name="HBO 2 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 4K
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 4K
 http://onlivex.pro:80/563593/vGfUjy/90246.ts
 #EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 FHD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
 http://onlivex.pro:80/563593/vGfUjy/72110.ts
@@ -984,7 +984,7 @@ http://onlivex.pro:80/563593/vGfUjy/72110.ts
 http://onlivex.pro:80/563593/vGfUjy/72111.ts
 #EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 HD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
 http://onlivex.pro:80/563593/vGfUjy/72112.ts
-#EXTINF:-1 tvg-id="HBO 2 HD.br" tvg-name="HBO 2 SD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 SD
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 SD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 SD
 http://onlivex.pro:80/563593/vGfUjy/72113.ts
 #EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family 4K
 http://onlivex.pro:80/563593/vGfUjy/90637.ts
@@ -1080,21 +1080,21 @@ http://onlivex.pro:80/563593/vGfUjy/90688.ts
 http://onlivex.pro:80/563593/vGfUjy/72132.ts
 #EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop SD [LEG]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90687.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature 4K
+#EXTINF:-1 tvg-id="HBO Signature.br" tvg-name="HBO Signature 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature 4K
 http://onlivex.pro:80/563593/vGfUjy/103494.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature FHD" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
+#EXTINF:-1 tvg-id="HBO Signature.br" tvg-name="HBO Signature FHD" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
 http://onlivex.pro:80/563593/vGfUjy/72134.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD [H265]
+#EXTINF:-1 tvg-id="HBO Signature.br" tvg-name="HBO Signature FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72135.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature FHD [LEG]
+#EXTINF:-1 tvg-id="HBO Signature.br" tvg-name="HBO Signature FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature FHD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90686.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature HD" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
+#EXTINF:-1 tvg-id="HBO Signature.br" tvg-name="HBO Signature HD" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
 http://onlivex.pro:80/563593/vGfUjy/72136.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature HD [LEG]
+#EXTINF:-1 tvg-id="HBO Signature.br" tvg-name="HBO Signature HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature HD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90685.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature SD" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
+#EXTINF:-1 tvg-id="HBO Signature.br" tvg-name="HBO Signature SD" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
 http://onlivex.pro:80/563593/vGfUjy/72137.ts
-#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature SD [LEG]
+#EXTINF:-1 tvg-id="HBO Signature.br" tvg-name="HBO Signature SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90684.ts
 #EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO Xtreme 4K" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme 4K
 http://onlivex.pro:80/563593/vGfUjy/90636.ts
