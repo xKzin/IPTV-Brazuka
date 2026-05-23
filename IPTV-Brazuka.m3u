@@ -498,11 +498,11 @@ http://onlivex.pro:80/563593/vGfUjy/71963.ts
 http://onlivex.pro:80/563593/vGfUjy/71964.ts
 #EXTINF:-1 tvg-name="Futura SD" tvg-logo="http://onlivex.pro/static/logos/canais/futura.png" group-title="Canais | Abertos",Futura SD
 http://onlivex.pro:80/563593/vGfUjy/71965.ts
-#EXTINF:-1 tvg-name="Globo Brasilia FHD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo Brasilia FHD
+#EXTINF:-1 tvg-id="Globo Brasília HD.br" tvg-name="Globo Brasilia FHD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo Brasilia FHD
 http://onlivex.pro:80/563593/vGfUjy/131151.ts
-#EXTINF:-1 timeshift="7" tvg-name="Globo Brasilia HD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo Brasilia HD
+#EXTINF:-1 timeshift="7" tvg-id="Globo Brasília HD.br" tvg-name="Globo Brasilia HD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo Brasilia HD
 http://onlivex.pro:80/563593/vGfUjy/131164.ts
-#EXTINF:-1 tvg-name="Globo Brasilia SD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo Brasilia SD
+#EXTINF:-1 tvg-id="Globo Brasília HD.br" tvg-name="Globo Brasilia SD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Centro Oeste",Globo Brasilia SD
 http://onlivex.pro:80/563593/vGfUjy/131116.ts
 #EXTINF:-1 tvg-name="Globo EPTV Campinas FHD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo EPTV Campinas FHD
 http://onlivex.pro:80/563593/vGfUjy/131150.ts
@@ -730,13 +730,13 @@ http://onlivex.pro:80/563593/vGfUjy/131133.ts
 http://onlivex.pro:80/563593/vGfUjy/72037.ts
 #EXTINF:-1 tvg-name="Globo RPC TV Ponta Grossa SD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sul",Globo RPC TV Ponta Grossa SD
 http://onlivex.pro:80/563593/vGfUjy/131189.ts
-#EXTINF:-1 tvg-name="Globo SP FHD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo SP FHD
+#EXTINF:-1 tvg-id="Globo São Paulo HD.br" tvg-name="Globo SP FHD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo SP FHD
 http://onlivex.pro:80/563593/vGfUjy/72040.ts
-#EXTINF:-1 tvg-name="Globo SP FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo SP FHD [H265]
+#EXTINF:-1 tvg-id="Globo SP.br" tvg-name="Globo SP FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo SP FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/131215.ts
-#EXTINF:-1 timeshift="7" tvg-name="Globo SP HD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo SP HD
+#EXTINF:-1 timeshift="7" tvg-id="Globo SP.br" tvg-name="Globo SP HD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo SP HD
 http://onlivex.pro:80/563593/vGfUjy/131212.ts
-#EXTINF:-1 tvg-name="Globo SP SD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo SP SD
+#EXTINF:-1 tvg-id="Globo São Paulo HD.br" tvg-name="Globo SP SD" tvg-logo="http://onlivex.pro/static/logos/canais/globo.png" group-title="Canais | Globos Sudeste",Globo SP SD
 http://onlivex.pro:80/563593/vGfUjy/72042.ts
 #EXTINF:-1 tvg-name="Globo TV Anhanguera FHD" tvg-logo="http://onlivex.pro/images/37974de0d1d16f3b56bec27eca38a765.png" group-title="Canais | Globos Centro Oeste",Globo TV Anhanguera FHD
 http://onlivex.pro:80/563593/vGfUjy/72043.ts
