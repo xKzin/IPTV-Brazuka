@@ -960,38 +960,42 @@ http://onlivex.pro:80/563593/vGfUjy/72107.ts
 http://onlivex.pro:80/563593/vGfUjy/72108.ts
 #EXTINF:-1 tvg-name="H2 SD" tvg-logo="http://onlivex.pro/static/logos/canais/h2.png" group-title="Canais | Documentários",H2 SD
 http://onlivex.pro:80/563593/vGfUjy/72109.ts
-#EXTINF:-1 tvg-name="HBO 2 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 4K
-http://onlivex.pro:80/563593/vGfUjy/90246.ts
-#EXTINF:-1 tvg-name="HBO 2 FHD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
-http://onlivex.pro:80/563593/vGfUjy/72110.ts
-#EXTINF:-1 tvg-name="HBO 2 FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD [H265]
-http://onlivex.pro:80/563593/vGfUjy/72111.ts
-#EXTINF:-1 tvg-name="HBO 2 HD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
-http://onlivex.pro:80/563593/vGfUjy/72112.ts
-#EXTINF:-1 tvg-name="HBO 2 SD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 SD
-http://onlivex.pro:80/563593/vGfUjy/72113.ts
-#EXTINF:-1 tvg-name="HBO 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO 4K
+#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO 4K
 http://onlivex.pro:80/563593/vGfUjy/90247.ts
-#EXTINF:-1 tvg-name="HBO Family 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family 4K
-http://onlivex.pro:80/563593/vGfUjy/90637.ts
-#EXTINF:-1 tvg-name="HBO Family FHD" tvg-logo="http://onlivex.pro/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
-http://onlivex.pro:80/563593/vGfUjy/72114.ts
-#EXTINF:-1 tvg-name="HBO Family FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD [H265]
-http://onlivex.pro:80/563593/vGfUjy/72115.ts
-#EXTINF:-1 tvg-name="HBO Family HD" tvg-logo="http://onlivex.pro/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
-http://onlivex.pro:80/563593/vGfUjy/72116.ts
-#EXTINF:-1 tvg-name="HBO Family SD" tvg-logo="http://onlivex.pro/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family SD
-http://onlivex.pro:80/563593/vGfUjy/72117.ts
-#EXTINF:-1 tvg-name="HBO FHD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO FHD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD
 http://onlivex.pro:80/563593/vGfUjy/72118.ts
-#EXTINF:-1 tvg-name="HBO FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD [H265]
+#EXTINF:-1 tvg-id="HBO HD.br" tvg-name="HBO FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72119.ts
-#EXTINF:-1 tvg-name="HBO FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | Legendados",HBO FHD [LEG]
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | Legendados",HBO FHD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90698.ts
-#EXTINF:-1 timeshift="7" tvg-name="HBO HD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
+#EXTINF:-1 timeshift="7" tvg-id="HBO HD.br" tvg-name="HBO HD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO HD
 http://onlivex.pro:80/563593/vGfUjy/72120.ts
-#EXTINF:-1 tvg-name="HBO HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | Legendados",HBO HD [LEG]
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | Legendados",HBO HD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90697.ts
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO SD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO SD
+http://onlivex.pro:80/563593/vGfUjy/72133.ts
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | Legendados",HBO SD [LEG]
+http://onlivex.pro:80/563593/vGfUjy/90696.ts
+#EXTINF:-1 tvg-id="HBO 2 HD.br" tvg-name="HBO 2 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 4K
+http://onlivex.pro:80/563593/vGfUjy/90246.ts
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 FHD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
+http://onlivex.pro:80/563593/vGfUjy/72110.ts
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD [H265]
+http://onlivex.pro:80/563593/vGfUjy/72111.ts
+#EXTINF:-1 tvg-id="HBO 2.br" tvg-name="HBO 2 HD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
+http://onlivex.pro:80/563593/vGfUjy/72112.ts
+#EXTINF:-1 tvg-id="HBO 2 HD.br" tvg-name="HBO 2 SD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo2.png" group-title="Canais | HBO",HBO 2 SD
+http://onlivex.pro:80/563593/vGfUjy/72113.ts
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family 4K
+http://onlivex.pro:80/563593/vGfUjy/90637.ts
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family FHD" tvg-logo="http://onlivex.pro/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
+http://onlivex.pro:80/563593/vGfUjy/72114.ts
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD [H265]
+http://onlivex.pro:80/563593/vGfUjy/72115.ts
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family HD" tvg-logo="http://onlivex.pro/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
+http://onlivex.pro:80/563593/vGfUjy/72116.ts
+#EXTINF:-1 tvg-id="HBO Family HD.br" tvg-name="HBO Family SD" tvg-logo="http://onlivex.pro/static/logos/canais/hbofamily.png" group-title="Canais | HBO",HBO Family SD
+http://onlivex.pro:80/563593/vGfUjy/72117.ts
 #EXTINF:-1 tvg-name="Max 1 FHD" tvg-logo="http://onlivex.pro/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 1 FHD
 http://onlivex.pro:80/563593/vGfUjy/140504.ts
 #EXTINF:-1 tvg-name="Max 1 HD" tvg-logo="http://onlivex.pro/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 1 HD
@@ -1028,95 +1032,91 @@ http://onlivex.pro:80/563593/vGfUjy/140509.ts
 http://onlivex.pro:80/563593/vGfUjy/130197.ts
 #EXTINF:-1 tvg-name="Max 6 SD" tvg-logo="http://onlivex.pro/images/48978cd3e3eb7f9b057b64decd5df5b8.jpg" group-title="Canais | Max",Max 6 SD
 http://onlivex.pro:80/563593/vGfUjy/140515.ts
-#EXTINF:-1 tvg-name="HBO MUNDI 4K" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO MUNDI 4K
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO MUNDI 4K" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO MUNDI 4K
 http://onlivex.pro:80/563593/vGfUjy/103496.ts
-#EXTINF:-1 tvg-name="HBO Mundi FHD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi FHD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD
 http://onlivex.pro:80/563593/vGfUjy/72121.ts
-#EXTINF:-1 tvg-name="HBO Mundi FHD [H265]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD [H265]
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi FHD [H265]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72122.ts
-#EXTINF:-1 tvg-name="HBO Mundi FHD [LEG]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi FHD [LEG]
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi FHD [LEG]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi FHD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90695.ts
-#EXTINF:-1 tvg-name="HBO Mundi HD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi HD
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi HD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi HD
 http://onlivex.pro:80/563593/vGfUjy/72123.ts
-#EXTINF:-1 tvg-name="HBO Mundi HD [LEG]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi HD [LEG]
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi HD [LEG]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi HD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90694.ts
-#EXTINF:-1 tvg-name="HBO Mundi SD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi SD
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi SD" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi SD
 http://onlivex.pro:80/563593/vGfUjy/72124.ts
-#EXTINF:-1 tvg-name="HBO Mundi SD [LEG]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi SD [LEG]
+#EXTINF:-1 tvg-id="HBO Mundi.br" tvg-name="HBO Mundi SD [LEG]" tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | Legendados",HBO Mundi SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90693.ts
-#EXTINF:-1 tvg-name="HBO Plus 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus 4K
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO Plus 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus 4K
 http://onlivex.pro:80/563593/vGfUjy/90635.ts
-#EXTINF:-1 tvg-name="HBO Plus FHD" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO Plus FHD" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
 http://onlivex.pro:80/563593/vGfUjy/72125.ts
-#EXTINF:-1 tvg-name="HBO Plus FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD [H265]
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO Plus FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72126.ts
-#EXTINF:-1 tvg-name="HBO Plus FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | Legendados",HBO Plus FHD [LEG]
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO Plus FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | Legendados",HBO Plus FHD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90692.ts
-#EXTINF:-1 timeshift="7" tvg-name="HBO Plus HD" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
+#EXTINF:-1 timeshift="7" tvg-id="HBO Plus HD.br" tvg-name="HBO Plus HD" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
 http://onlivex.pro:80/563593/vGfUjy/72127.ts
-#EXTINF:-1 tvg-name="HBO Plus HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | Legendados",HBO Plus HD [LEG]
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO Plus HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | Legendados",HBO Plus HD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90691.ts
-#EXTINF:-1 tvg-name="HBO Plus SD" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus SD
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO Plus SD" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | HBO",HBO Plus SD
 http://onlivex.pro:80/563593/vGfUjy/72128.ts
-#EXTINF:-1 tvg-name="HBO Plus SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | Legendados",HBO Plus SD [LEG]
+#EXTINF:-1 tvg-id="HBO Plus HD.br" tvg-name="HBO Plus SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hboplus.png" group-title="Canais | Legendados",HBO Plus SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90690.ts
-#EXTINF:-1 tvg-name="HBO POP 4K" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO POP 4K
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO POP 4K" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO POP 4K
 http://onlivex.pro:80/563593/vGfUjy/103495.ts
-#EXTINF:-1 tvg-name="HBO Pop FHD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop FHD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD
 http://onlivex.pro:80/563593/vGfUjy/72129.ts
-#EXTINF:-1 tvg-name="HBO Pop FHD [H265]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD [H265]
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop FHD [H265]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72130.ts
-#EXTINF:-1 tvg-name="HBO Pop FHD [LEG]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop FHD [LEG]
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop FHD [LEG]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop FHD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90689.ts
-#EXTINF:-1 tvg-name="HBO Pop HD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop HD
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop HD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop HD
 http://onlivex.pro:80/563593/vGfUjy/72131.ts
-#EXTINF:-1 tvg-name="HBO Pop HD [LEG]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop HD [LEG]
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop HD [LEG]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop HD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90688.ts
-#EXTINF:-1 tvg-name="HBO Pop SD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop SD
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop SD" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop SD
 http://onlivex.pro:80/563593/vGfUjy/72132.ts
-#EXTINF:-1 tvg-name="HBO Pop SD [LEG]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop SD [LEG]
+#EXTINF:-1 tvg-id="HBO Pop.br" tvg-name="HBO Pop SD [LEG]" tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | Legendados",HBO Pop SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90687.ts
-#EXTINF:-1 tvg-name="HBO SD" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | HBO",HBO SD
-http://onlivex.pro:80/563593/vGfUjy/72133.ts
-#EXTINF:-1 tvg-name="HBO SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbo.png" group-title="Canais | Legendados",HBO SD [LEG]
-http://onlivex.pro:80/563593/vGfUjy/90696.ts
-#EXTINF:-1 tvg-name="HBO Signature 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature 4K
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature 4K" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature 4K
 http://onlivex.pro:80/563593/vGfUjy/103494.ts
-#EXTINF:-1 tvg-name="HBO Signature FHD" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature FHD" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
 http://onlivex.pro:80/563593/vGfUjy/72134.ts
-#EXTINF:-1 tvg-name="HBO Signature FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD [H265]
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72135.ts
-#EXTINF:-1 tvg-name="HBO Signature FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature FHD [LEG]
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature FHD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90686.ts
-#EXTINF:-1 tvg-name="HBO Signature HD" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature HD" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
 http://onlivex.pro:80/563593/vGfUjy/72136.ts
-#EXTINF:-1 tvg-name="HBO Signature HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature HD [LEG]
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature HD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90685.ts
-#EXTINF:-1 tvg-name="HBO Signature SD" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature SD" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
 http://onlivex.pro:80/563593/vGfUjy/72137.ts
-#EXTINF:-1 tvg-name="HBO Signature SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature SD [LEG]
+#EXTINF:-1 tvg-id="HBO Signature HD.br" tvg-name="HBO Signature SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/hbosignature.png" group-title="Canais | Legendados",HBO Signature SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90684.ts
-#EXTINF:-1 tvg-name="HBO Xtreme 4K" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme 4K
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO Xtreme 4K" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme 4K
 http://onlivex.pro:80/563593/vGfUjy/90636.ts
-#EXTINF:-1 tvg-name="HBO Xtreme FHD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD
 http://onlivex.pro:80/563593/vGfUjy/72138.ts
-#EXTINF:-1 tvg-name="HBO Xtreme FHD [H265]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD [H265]
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO Xtreme FHD [H265]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72139.ts
-#EXTINF:-1 tvg-name="HBO Xtreme FHD [LEG]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme FHD [LEG]
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO Xtreme FHD [LEG]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme FHD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90683.ts
-#EXTINF:-1 tvg-name="HBO Xtreme HD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme HD
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme HD
 http://onlivex.pro:80/563593/vGfUjy/72140.ts
-#EXTINF:-1 tvg-name="HBO Xtreme HD [LEG]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme HD [LEG]
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO Xtreme HD [LEG]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme HD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90682.ts
-#EXTINF:-1 tvg-name="HBO Xtreme SD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme SD
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO Xtreme SD" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme SD
 http://onlivex.pro:80/563593/vGfUjy/72141.ts
-#EXTINF:-1 tvg-name="HBO Xtreme SD [LEG]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme SD [LEG]
+#EXTINF:-1 tvg-id="HBO Xtreme.br" tvg-name="HBO Xtreme SD [LEG]" tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | Legendados",HBO Xtreme SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90681.ts
-#EXTINF:-1 tvg-name="HGTV 4K" tvg-logo="http://onlivex.pro/static/logos/canais/discoverycivilization.png" group-title="Canais | 4K [FHDR]",HGTV 4K
+#EXTINF:-1 tvg-id="" tvg-name="HGTV 4K" tvg-logo="http://onlivex.pro/static/logos/canais/discoverycivilization.png" group-title="Canais | 4K [FHDR]",HGTV 4K
 http://onlivex.pro:80/563593/vGfUjy/103493.ts
-#EXTINF:-1 tvg-name="HGTV FHD" tvg-logo="http://onlivex.pro/static/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV FHD
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="http://onlivex.pro/static/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV FHD
 http://onlivex.pro:80/563593/vGfUjy/72142.ts
-#EXTINF:-1 tvg-name="HGTV FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV FHD [H265]
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72143.ts
 #EXTINF:-1 tvg-name="HGTV HD" tvg-logo="http://onlivex.pro/static/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",HGTV HD
 http://onlivex.pro:80/563593/vGfUjy/72144.ts
@@ -1684,101 +1684,101 @@ http://onlivex.pro:80/563593/vGfUjy/72343.ts
 http://onlivex.pro:80/563593/vGfUjy/72344.ts
 #EXTINF:-1 tvg-name="TNT Novelas SD" tvg-logo="http://onlivex.pro/static/logos/canais/tbs.png" group-title="Canais | Filmes e Séries",TNT Novelas SD
 http://onlivex.pro:80/563593/vGfUjy/72345.ts
-#EXTINF:-1 tvg-name="Telecine Action 4K" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action 4K
+#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="Telecine Action 4K" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action 4K
 http://onlivex.pro:80/563593/vGfUjy/90239.ts
-#EXTINF:-1 tvg-name="Telecine Action FHD" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
+#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action FHD" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
 http://onlivex.pro:80/563593/vGfUjy/72346.ts
-#EXTINF:-1 tvg-name="Telecine Action FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
+#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="Telecine Action FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72347.ts
-#EXTINF:-1 tvg-name="Telecine Action FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Legendados",Telecine Action FHD [LEG]
+#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Legendados",Telecine Action FHD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90668.ts
-#EXTINF:-1 timeshift="7" tvg-name="Telecine Action HD" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
+#EXTINF:-1 timeshift="7" tvg-id="Telecine Action HD.br" tvg-name="Telecine Action HD" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
 http://onlivex.pro:80/563593/vGfUjy/72348.ts
-#EXTINF:-1 tvg-name="Telecine Action HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Legendados",Telecine Action HD [LEG]
+#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Legendados",Telecine Action HD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90667.ts
-#EXTINF:-1 tvg-name="Telecine Action SD" tvg-logo="http://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD
+#EXTINF:-1 tvg-id="Telecine Action HD.br" tvg-name="Telecine Action SD" tvg-logo="http://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD
 http://onlivex.pro:80/563593/vGfUjy/72349.ts
-#EXTINF:-1 tvg-name="Telecine Action SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Legendados",Telecine Action SD [LEG]
+#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="Telecine Action SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecineaction.png" group-title="Canais | Legendados",Telecine Action SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90666.ts
-#EXTINF:-1 tvg-name="Telecine Cult 4K" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult 4K
+#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="Telecine Cult 4K" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult 4K
 http://onlivex.pro:80/563593/vGfUjy/103456.ts
-#EXTINF:-1 tvg-name="Telecine Cult FHD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD
 http://onlivex.pro:80/563593/vGfUjy/72350.ts
-#EXTINF:-1 tvg-name="Telecine Cult FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD [H265]
+#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="Telecine Cult FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72351.ts
-#EXTINF:-1 tvg-name="Telecine Cult FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Legendados",Telecine Cult FHD [LEG]
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Legendados",Telecine Cult FHD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90665.ts
-#EXTINF:-1 timeshift="7" tvg-name="Telecine Cult HD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
+#EXTINF:-1 timeshift="7" tvg-id="Telecine Cult HD.br" tvg-name="Telecine Cult HD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
 http://onlivex.pro:80/563593/vGfUjy/72352.ts
-#EXTINF:-1 tvg-name="Telecine Cult HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Legendados",Telecine Cult HD [LEG]
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Legendados",Telecine Cult HD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90664.ts
-#EXTINF:-1 tvg-name="Telecine Cult SD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult SD
+#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="Telecine Cult SD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult SD
 http://onlivex.pro:80/563593/vGfUjy/72353.ts
-#EXTINF:-1 tvg-name="Telecine Cult SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Legendados",Telecine Cult SD [LEG]
+#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="Telecine Cult SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinecult.png" group-title="Canais | Legendados",Telecine Cult SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90663.ts
-#EXTINF:-1 tvg-name="Telecine Fun 4K" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun 4K
+#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="Telecine Fun 4K" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun 4K
 http://onlivex.pro:80/563593/vGfUjy/103455.ts
-#EXTINF:-1 tvg-name="Telecine Fun FHD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD
 http://onlivex.pro:80/563593/vGfUjy/72354.ts
-#EXTINF:-1 tvg-name="Telecine Fun FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD [H265]
+#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="Telecine Fun FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72355.ts
-#EXTINF:-1 tvg-name="Telecine Fun FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Legendados",Telecine Fun FHD [LEG]
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Legendados",Telecine Fun FHD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90662.ts
-#EXTINF:-1 timeshift="7" tvg-name="Telecine Fun HD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
+#EXTINF:-1 timeshift="7" tvg-id="Telecine Fun HD.br" tvg-name="Telecine Fun HD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
 http://onlivex.pro:80/563593/vGfUjy/72356.ts
-#EXTINF:-1 tvg-name="Telecine Fun HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Legendados",Telecine Fun HD [LEG]
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Legendados",Telecine Fun HD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90661.ts
-#EXTINF:-1 tvg-name="Telecine Fun SD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun SD
+#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="Telecine Fun SD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun SD
 http://onlivex.pro:80/563593/vGfUjy/72357.ts
-#EXTINF:-1 tvg-name="Telecine Fun SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Legendados",Telecine Fun SD [LEG]
+#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="Telecine Fun SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinefun.png" group-title="Canais | Legendados",Telecine Fun SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90660.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca 4K" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca 4K
+#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="Telecine Pipoca 4K" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca 4K
 http://onlivex.pro:80/563593/vGfUjy/90238.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca FHD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD
 http://onlivex.pro:80/563593/vGfUjy/72358.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
+#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72359.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Legendados",Telecine Pipoca FHD [LEG]
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Legendados",Telecine Pipoca FHD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90659.ts
-#EXTINF:-1 timeshift="7" tvg-name="Telecine Pipoca HD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
+#EXTINF:-1 timeshift="7" tvg-id="Telecine Pipoca HD.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
 http://onlivex.pro:80/563593/vGfUjy/72360.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Legendados",Telecine Pipoca HD [LEG]
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Legendados",Telecine Pipoca HD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90658.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca SD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca SD
+#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca SD
 http://onlivex.pro:80/563593/vGfUjy/72361.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Legendados",Telecine Pipoca SD [LEG]
+#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="Telecine Pipoca SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepipoca.png" group-title="Canais | Legendados",Telecine Pipoca SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90657.ts
-#EXTINF:-1 tvg-name="Telecine Premium 4K" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium 4K
+#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="Telecine Premium 4K" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium 4K
 http://onlivex.pro:80/563593/vGfUjy/90237.ts
-#EXTINF:-1 tvg-name="Telecine Premium FHD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD
 http://onlivex.pro:80/563593/vGfUjy/72362.ts
-#EXTINF:-1 tvg-name="Telecine Premium FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD [H265]
+#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="Telecine Premium FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72363.ts
-#EXTINF:-1 tvg-name="Telecine Premium FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Legendados",Telecine Premium FHD [LEG]
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Legendados",Telecine Premium FHD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90656.ts
-#EXTINF:-1 timeshift="7" tvg-name="Telecine Premium HD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
+#EXTINF:-1 timeshift="7" tvg-id="Telecine Premium HD.br" tvg-name="Telecine Premium HD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
 http://onlivex.pro:80/563593/vGfUjy/72364.ts
-#EXTINF:-1 tvg-name="Telecine Premium HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Legendados",Telecine Premium HD [LEG]
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Legendados",Telecine Premium HD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90655.ts
-#EXTINF:-1 tvg-name="Telecine Premium SD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium SD
+#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="Telecine Premium SD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium SD
 http://onlivex.pro:80/563593/vGfUjy/72365.ts
-#EXTINF:-1 tvg-name="Telecine Premium SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Legendados",Telecine Premium SD [LEG]
+#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="Telecine Premium SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinepremium.png" group-title="Canais | Legendados",Telecine Premium SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90654.ts
-#EXTINF:-1 tvg-name="Telecine Touch 4K" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch 4K
+#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="Telecine Touch 4K" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch 4K
 http://onlivex.pro:80/563593/vGfUjy/103454.ts
-#EXTINF:-1 tvg-name="Telecine Touch FHD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD
 http://onlivex.pro:80/563593/vGfUjy/72366.ts
-#EXTINF:-1 tvg-name="Telecine Touch FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD [H265]
+#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="Telecine Touch FHD [H265]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD [H265]
 http://onlivex.pro:80/563593/vGfUjy/72367.ts
-#EXTINF:-1 tvg-name="Telecine Touch FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Legendados",Telecine Touch FHD [LEG]
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch FHD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Legendados",Telecine Touch FHD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90653.ts
-#EXTINF:-1 timeshift="7" tvg-name="Telecine Touch HD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
+#EXTINF:-1 timeshift="7" tvg-id="Telecine Touch HD.br" tvg-name="Telecine Touch HD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
 http://onlivex.pro:80/563593/vGfUjy/72368.ts
-#EXTINF:-1 tvg-name="Telecine Touch HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Legendados",Telecine Touch HD [LEG]
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch HD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Legendados",Telecine Touch HD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90652.ts
-#EXTINF:-1 tvg-name="Telecine Touch SD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch SD
+#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="Telecine Touch SD" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch SD
 http://onlivex.pro:80/563593/vGfUjy/72369.ts
-#EXTINF:-1 tvg-name="Telecine Touch SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Legendados",Telecine Touch SD [LEG]
+#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="Telecine Touch SD [LEG]" tvg-logo="http://onlivex.pro/static/logos/canais/telecinetouch.png" group-title="Canais | Legendados",Telecine Touch SD [LEG]
 http://onlivex.pro:80/563593/vGfUjy/90651.ts
 #EXTINF:-1 tvg-name="TLC 4K" tvg-logo="http://onlivex.pro/static/logos/canais/tlc.png" group-title="Canais | Variedades",TLC 4K
 http://onlivex.pro:80/563593/vGfUjy/103465.ts
