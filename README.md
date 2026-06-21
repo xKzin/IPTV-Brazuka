@@ -25,10 +25,6 @@
 
 
 
-#LISTA INTERNACIONAL POR LITUATUI                                      
-╰─➤M3U: https://m3upt.com/iptv                                 
-╰─➤EPG: https://m3upt.com/epg
-
 #RECOMENDAÇÃO DE APLICATIVOS QUE COSTUMO USAR NO COMPUTADOR E NO IPHONE
 
 | IP-TV Player - WINDOWS -> https://borpas.info/iptvplayer
@@ -40,9 +36,3 @@
 | IPTV Fluent Player - WINDOWS -> https://apps.microsoft.com/detail/9pkmdlwbc8zj?hl=pt-BR&gl=BR
 
 | IPTV Fluent Player - iPHONE -> https://apps.apple.com/us/app/iptv-fluent-player/id6744343679
-
-#RECOMENDAÇÃO DE LISTA EPG XML
-
-| https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml
-
-| https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml
