@@ -22,6 +22,7 @@
 ╰─➤IPTV-Brazuka4 - https://dns.p2.wtf/epg/rogerio55x/24992611250                                            
 ╰─➤IPTV-Brazuka5 - http://cerejadoce.live:80/xmltv.php?username=68dGF&password=YcvT7                                         
 ╰─➤IPTV-Brazuka6 - http://cebolinha.sbs/xmltv.php?username=crisuhd&password=aassddff
+╰─➤IPTV-Internacional - http://rocketfx.uk:8080/xmltv.php?username=AlexT&password=pBTQhu55mV          
 
 
 
