@@ -3275,6 +3275,18 @@ http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/528c5356-929b-4025-b081-c0c3e15e3d
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/a9ea646b-b035-4738-9c6c-6672ecca1795.m3u
 #EXTINF:-1 tvg-id="viaplayxtra.uk" tvg-name="UK: Viaplay Xtra  FHD" tvg-logo="https://apps.losttec.com/countries/united-kingdom/viaplay-xtra-hz-uk.png?raw=true" group-title="Full Subscription Master",UK: Viaplay Xtra  FHD
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/db9a96fe-a683-4582-b6ab-dc6871103c8d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="WST Snooker 01" tvg-logo="https://images.gc.wstservices.co.uk/fit-in/200x200/79b40cb0-9f35-11ee-8055-8b049108ba83.png" group-title="Full Subscription Master",WST Snooker 01
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/37e0ec32-6d66-4454-90c7-df8b66dae834.m3u
+#EXTINF:-1 tvg-id="" tvg-name="WST Snooker 02" tvg-logo="https://images.gc.wstservices.co.uk/fit-in/200x200/79b40cb0-9f35-11ee-8055-8b049108ba83.png" group-title="Full Subscription Master",WST Snooker 02
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/0e7156c7-e611-41eb-b926-861db800de9e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="WST Snooker 03" tvg-logo="https://images.gc.wstservices.co.uk/fit-in/200x200/79b40cb0-9f35-11ee-8055-8b049108ba83.png" group-title="Full Subscription Master",WST Snooker 03
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/9467fe28-5dfb-4f28-9597-d3733f5b27e3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="WST Snooker 04" tvg-logo="https://images.gc.wstservices.co.uk/fit-in/200x200/79b40cb0-9f35-11ee-8055-8b049108ba83.png" group-title="Full Subscription Master",WST Snooker 04
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/4c3a7400-d93d-4290-b371-8ec63abd4ec5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="WST Snooker 05" tvg-logo="https://images.gc.wstservices.co.uk/fit-in/200x200/79b40cb0-9f35-11ee-8055-8b049108ba83.png" group-title="Full Subscription Master",WST Snooker 05
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/7ce5b72b-8f37-4702-a544-2115a8c13b5b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="WST Snooker 06" tvg-logo="https://images.gc.wstservices.co.uk/fit-in/200x200/79b40cb0-9f35-11ee-8055-8b049108ba83.png" group-title="Full Subscription Master",WST Snooker 06
+http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/b08506f0-b51d-4f3e-8771-6d5c1ed7c2c2.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PDC Board 1 | | EPG LISTINGS" tvg-logo="https://w7.pngwing.com/pngs/58/918/png-transparent-professional-darts-corporation-2014-pdc-world-darts-championship-pdc-europe-logo-identity-information-blue-text-logo.png" group-title="Full Subscription Master",PDC Board 1 | | EPG LISTINGS
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/b33d8df2-000c-4857-857a-69d9128fcb01.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PDC Board 2 | | EPG LISTINGS" tvg-logo="https://w7.pngwing.com/pngs/58/918/png-transparent-professional-darts-corporation-2014-pdc-world-darts-championship-pdc-europe-logo-identity-information-blue-text-logo.png" group-title="Full Subscription Master",PDC Board 2 | | EPG LISTINGS
@@ -3625,33 +3637,33 @@ http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/55a151f5-9e47-41c7-9257-b081b922ec
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/fef80d92-bee0-4131-890e-aac365c795d2.m3u
 #EXTINF:-1 tvg-id="" tvg-name="DAZN CA 30:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Full Subscription Master",DAZN CA 30:
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/187ca417-633a-4398-a015-9cb10d76e2e4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PPV 01 BILLAM-SMITH vs ROSICKI — UK Sat 6 Jun 5:00pm // ET Sat 6 Jun 12:00pm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV 01 BILLAM-SMITH vs ROSICKI — UK Sat 6 Jun 5:00pm // ET Sat 6 Jun 12:00pm
+#EXTINF:-1 tvg-id="" tvg-name="PPV 01 FURY vs HALL — UK Sat 13 Jun 6:00pm // ET Sat 13 Jun 1:00pm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV 01 FURY vs HALL — UK Sat 13 Jun 6:00pm // ET Sat 13 Jun 1:00pm
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/86701064-6165-4287-b569-216110dbd823.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PPV01 | RWS Muay Thai: RWS: Samingdet vs Flukenoi June 6 8:10 AM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV01 | RWS Muay Thai: RWS: Samingdet vs Flukenoi June 6 8:10 AM
+#EXTINF:-1 tvg-id="" tvg-name="PPV01 | RWS Muay Thai: RWS: Jaroensook vs Pangtor June 20 8:10 AM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV01 | RWS Muay Thai: RWS: Jaroensook vs Pangtor June 20 8:10 AM
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/15513b03-67d5-4603-8048-b7015fdc24c3.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PPV 02 | PADLEY vs FIAZ — UK Sat 6 Jun 5:15pm // ET Sat 6 Jun 12:15pm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV 02 | PADLEY vs FIAZ — UK Sat 6 Jun 5:15pm // ET Sat 6 Jun 12:15pm
+#EXTINF:-1 tvg-id="" tvg-name="PPV 02 | PJONES vs CARRANZA 2 — UK Sat 13 Jun 9:45pm // ET Sat 13 Jun 4:45pm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV 02 | PJONES vs CARRANZA 2 — UK Sat 13 Jun 9:45pm // ET Sat 13 Jun 4:45pm
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/cc183a86-61d0-4cbc-aa3a-6510647087bd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PPV02 | Matchroom Boxing: Padley vs Fiaz: Prelims June 12:15 PM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV02 | Matchroom Boxing: Padley vs Fiaz: Prelims June 12:15 PM
+#EXTINF:-1 tvg-id="" tvg-name="PPV02 | Queensberry Promotions: Garner vs Magnesi: Prelims June 20 10:45 AM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV02 | Queensberry Promotions: Garner vs Magnesi: Prelims June 20 10:45 AM
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/86f872ad-e254-477b-a982-2fe995f8ff98.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PPV 03 | UFC VEGAS 118: EARLY PRELIMS — UK Sat 6 Jun 10:00pm // ET Sat 6 Jun 5:00pm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV 03 | UFC VEGAS 118: EARLY PRELIMS — UK Sat 6 Jun 10:00pm // ET Sat 6 Jun 5:00pm
+#EXTINF:-1 tvg-id="" tvg-name="PPV 03 | RODRIGUEZ vs VARGAS — UK Sun 14 Jun 1:00am // ET Sat 13 Jun 8:00pm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV 03 | RODRIGUEZ vs VARGAS — UK Sun 14 Jun 1:00am // ET Sat 13 Jun 8:00pm
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/f8992206-43eb-44d9-94e7-afdcdac21f14.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PPV03 | Brave CF: Brave CF 106: Slovenia June 6 1:30 PM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV03 | Brave CF: Brave CF 106: Slovenia June 6 1:30 PM
+#EXTINF:-1 tvg-id="" tvg-name="PPV03 | King of Kings (KOK): KOK Fight Night: Gezius vs Tryfonos June 20 1:00 PM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV03 | King of Kings (KOK): KOK Fight Night: Gezius vs Tryfonos June 20 1:00 PM
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/09778eec-33c0-4d61-bf2b-3e4388426ce7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PPV 04 | UFC VEGAS 118: PRELIMS — UK Sat 6 Jun 11:00pm // ET Sat 6 Jun 6:00pm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV 04 | UFC VEGAS 118: PRELIMS — UK Sat 6 Jun 11:00pm // ET Sat 6 Jun 6:00pm
+#EXTINF:-1 tvg-id="" tvg-name="PPV 04 |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV 04 |
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/516647b9-9f2a-44f8-b7c6-1c9ae33a1544.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PPV04 | Matchroom Boxing: Padley vs Fiaz June 6 2:00 PM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV04 | Matchroom Boxing: Padley vs Fiaz June 6 2:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="PPV04 | Queensberry Promotions: Garner vs Magnesi June 20 2:00 PM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV04 | Queensberry Promotions: Garner vs Magnesi June 20 2:00 PM
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/8f313f85-a714-4e91-946c-309be0802eb2.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PPV 05 | UFC VEGAS 118: MUHAMMAD vs BONFIM — UK Sun 7 Jun 1:00am // ET Sat 6 Jun 8:00pm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV 05 | UFC VEGAS 118: MUHAMMAD vs BONFIM — UK Sun 7 Jun 1:00am // ET Sat 6 Jun 8:00pm
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/e7c5e5cf-a187-4dd5-ade1-49d00888c039.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PPV05 | Nolan Bros Boxing: Brown vs Vieira June 6 5:00 PM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV05 | Nolan Bros Boxing: Brown vs Vieira June 6 5:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="PPV05 | Golden Boy Promotions: Collazo vs Valdez June 20 8:00 PM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV05 | Golden Boy Promotions: Collazo vs Valdez June 20 8:00 PM
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/46a90199-dee0-4516-be9c-d78ffaae21ff.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PPV 06 |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV 06 |
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/d3eabfdd-a29d-41eb-a808-ab1bc58cc2a4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PPV06 | UFC Fight Night: English June 6 4:00 PM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV06 | UFC Fight Night: English June 6 4:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="PPV06 | UFC Fight Night: English June 20 4:00 PM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV06 | UFC Fight Night: English June 20 4:00 PM
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/bd0a27f4-cd11-4e28-8089-7464e17b57a8.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PPV 07 |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV 07 |
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/e6c61bb9-d80f-4294-8dac-cb0f34b33766.m3u
-#EXTINF:-1 tvg-id="" tvg-name="PPV07 | UFC Fight Night: Muhammad vs Bonfim June 6 6:00 PM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV07 | UFC Fight Night: Muhammad vs Bonfim June 6 6:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="PPV07 |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV07 |
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/222b2a9c-65c9-441e-b374-d7f44ffe6b5e.m3u
 #EXTINF:-1 tvg-id="" tvg-name="PPV 08 |" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkTUcN52godHdPEVDy3QgoS-byf6DE-VuXBQ&s" group-title="Full Subscription Master",PPV 08 |
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/7be6d83c-f46a-4414-8296-992ef0b69ab8.m3u
@@ -3667,17 +3679,17 @@ http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/5737e9b0-87f9-4a44-a437-6c8c9891b5
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/97fea289-6bfb-4d94-95b9-03e30297b494.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT 01: WWE RAW SMACKDOWN AND PPV" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 01: WWE RAW SMACKDOWN AND PPV
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/2bb3cad1-eb4d-45bd-8151-5f6151d48a9b.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT 02 UFC Fight Night Muhammad v Bonfim 11PM" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 02 UFC Fight Night Muhammad v Bonfim 11PM
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT 02 UFC Fight Night Kape v Horiguchi" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 02 UFC Fight Night Kape v Horiguchi
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/7d1a7b66-c27a-45df-8d0b-24671b9f2fbe.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT 03: Billam Smith v Rozicki 7PM" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 03: Billam Smith v Rozicki 7PM
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT 03: Garner v Magnesi" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 03: Garner v Magnesi
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/3590f29e-279d-4dcd-86a9-31f673997b8e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT 04: Padley v Fiaz 5:15" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 04: Padley v Fiaz 5:15
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT 04: Cage Warriors 207" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 04: Cage Warriors 207
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/6de08c2c-b4b0-4f44-8176-bd84accebea4.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT 05:" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 05:
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT 05: Collazo v Valdez" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 05: Collazo v Valdez
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/31c3e470-6053-4a05-9307-38fcd16d9bf7.m3u
-#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT 06: Foster v Ford 10:30pm" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 06: Foster v Ford 10:30pm
+#EXTINF:-1 tvg-id="" tvg-name="LIVE EVENT 06:  Shamrock FC 376" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 06:  Shamrock FC 376
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/c0fb095f-8069-4835-a226-40454ebac116.m3u
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="LIVE EVENT 07:  RWS Burgos vs Nongmay 13:10" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 07:  RWS Burgos vs Nongmay 13:10
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-name="LIVE EVENT 07:  Take That" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 07:  Take That
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/26d33c4b-4640-4ac3-bb29-c3f14b107bee.m3u
 #EXTINF:-1 tvg-id="Live.Event.us" tvg-name="LIVE EVENT 08:" tvg-logo="https://www.onlygfx.com/wp-content/uploads/2019/11/8-live-stamp-1-1.png" group-title="Full Subscription Master",LIVE EVENT 08:
 http://rocketfx.uk:8080/live/AlexT/pBTQhu55mV/12e2b6c4-2973-45ca-8348-c81052525be3.m3u
