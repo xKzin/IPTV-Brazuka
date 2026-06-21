@@ -16,7 +16,7 @@
 ╰─➤https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka5.m3u                                              
 
 #SEGUE O LINK EPG DE CADA LISTA                   
-╰─➤IPTV-Brazuka  - http://onlivex.pro/xmltv.php?username=563593&password=vGfUjy                                         
+╰─➤IPTV-Brazuka   - http://onlivex.pro/xmltv.php?username=563593&password=vGfUjy                                         
 ╰─➤IPTV-Brazuka2 - http://tv5play.xyz:80/xmltv.php?username=Andre2356B&password=8774UVPAwn                                                             
 ╰─➤IPTV-Brazuka3 - http://38.100.203.94/xmltv.php?username=438200193&password=440961511      
 ╰─➤IPTV-Brazuka4 - https://dns.p2.wtf/epg/rogerio55x/24992611250                                            
