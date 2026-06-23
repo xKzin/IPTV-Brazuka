@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://tv5play.xyz:80/xmltv.php?username=Andre2356B&password=8774UVPAwn"
 #EXTINF:-1 tvg-id="" tvg-name="Agro Canal" tvg-logo="https://i.imgur.com/EvB0a1d.png" group-title="Canais - Abertos",Agro Canal
 http://tv5play.xyz:80/live/Andre2356B/8774UVPAwn/144211.ts
 #EXTINF:-1 tvg-id="" tvg-name="AgroBrasil TV" tvg-logo="https://i.imgur.com/RmeazoE.png" group-title="Canais - Abertos",AgroBrasil TV
