@@ -2,7 +2,6 @@
 
 #Recomendo ultilizar o link raw do projeto para que os futuros updates sejam de forma automatizada!
 
-#CANAIS BRASILEIROS E ALGUNS DE PORTUGAL!
 
 #CLOUDFLARE WARP NO SEU SMARTPHONE PODE AJUDAR EM ALGUNS CASOS DE PROBLEMA DE CONEXÃO                                                           
 ╰─➤IPHONE: https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627                                                                 
