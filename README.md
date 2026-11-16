@@ -2,7 +2,7 @@
 
 #Recomendo ultilizar o link raw do projeto para que os futuros updates sejam de forma automatizada!
 
-Canais TV -> https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka.m3u
+Canais TV -> https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka.m3u                                     
 Filmes e Séries -> https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/Filmes%20e%20S%C3%A9ries.m3u
 
 #CLOUDFLARE WARP NO SEU SMARTPHONE PODE AJUDAR EM ALGUNS CASOS DE PROBLEMA DE CONEXÃO                                                           
